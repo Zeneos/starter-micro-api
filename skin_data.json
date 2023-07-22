@@ -1,0 +1,9428 @@
+[
+ {
+   "champion": "Aatrox",
+   "skinName": "Blood Moon",
+   "releaseDate": "2019-01-10",
+   "price": 1350
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Justicar",
+   "releaseDate": "2013-06-12",
+   "price": 975
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Lunar Eclipse",
+   "releaseDate": "2022-04-28",
+   "price": 1350
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Mecha",
+   "releaseDate": "2014-07-23",
+   "price": 1350
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Odyssey",
+   "releaseDate": "2020-10-15",
+   "price": 1350
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Original",
+   "releaseDate": "2013-06-12",
+   "price": 880
+ },
+ {
+   "champion": "Aatrox",
+   "skinName": "Sea Hunter",
+   "releaseDate": "2015-07-22",
+   "price": 750
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Academy",
+   "releaseDate": "2015-08-26",
+   "price": 750
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Arcade",
+   "releaseDate": "2016-08-24",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Arcana",
+   "releaseDate": "2022-04-14",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Challenger",
+   "releaseDate": "2015-01-15",
+   "price": 975
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Coven",
+   "releaseDate": "2021-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Dynasty",
+   "releaseDate": "2011-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Elderwood",
+   "releaseDate": "2019-08-29",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Foxfire",
+   "releaseDate": "2012-07-11",
+   "price": 975
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "KDA",
+   "releaseDate": "2018-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "KDA ALL OUT",
+   "releaseDate": "2020-10-29",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Midnight",
+   "releaseDate": "2011-12-14",
+   "price": 750
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Original",
+   "releaseDate": "2011-12-14",
+   "price": 880
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Popstar",
+   "releaseDate": "2013-11-25",
+   "price": 975
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Snow Moon",
+   "releaseDate": "2023-05-18",
+   "price": 1350
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-08-06",
+   "price": 1820
+ },
+ {
+   "champion": "Ahri",
+   "skinName": "Star Guardian",
+   "releaseDate": "2017-09-06",
+   "price": 1820
+ },
+ {
+   "champion": "Akali",
+   "skinName": "All-star",
+   "releaseDate": "2010-06-24",
+   "price": 975
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Blood Moon",
+   "releaseDate": "2011-06-07",
+   "price": 975
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Crime City Nightmare",
+   "releaseDate": "2021-08-26",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Headhunter",
+   "releaseDate": "2015-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Infernal",
+   "releaseDate": "2010-05-11",
+   "price": 520
+ },
+ {
+   "champion": "Akali",
+   "skinName": "KDA",
+   "releaseDate": "2018-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "KDA ALL OUT",
+   "releaseDate": "2020-10-29",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Nurse",
+   "releaseDate": "2011-01-04",
+   "price": 975
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Original",
+   "releaseDate": "2010-05-11",
+   "price": 790
+ },
+ {
+   "champion": "Akali",
+   "skinName": "PROJECT",
+   "releaseDate": "2019-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Sashimi",
+   "releaseDate": "2016-09-07",
+   "price": 750
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Silverfang",
+   "releaseDate": "2011-11-29",
+   "price": 975
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-28",
+   "price": 1820
+ },
+ {
+   "champion": "Akali",
+   "skinName": "Stinger",
+   "releaseDate": "2010-05-11",
+   "price": 520
+ },
+ {
+   "champion": "Akali",
+   "skinName": "True Damage",
+   "releaseDate": "2019-11-10",
+   "price": 1350
+ },
+ {
+   "champion": "Akshan",
+   "skinName": "Crystal Rose",
+   "releaseDate": "2022-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Akshan",
+   "skinName": "Cyber Pop",
+   "releaseDate": "2021-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Akshan",
+   "skinName": "Original",
+   "releaseDate": "2021-07-22",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Blackfrost",
+   "releaseDate": "2020-03-05",
+   "price": 1350
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Conqueror",
+   "releaseDate": "2019-04-30",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Golden",
+   "releaseDate": "2010-01-13",
+   "price": 390
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Infernal",
+   "releaseDate": "2012-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Longhorn",
+   "releaseDate": "2011-02-16",
+   "price": 520
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Marauder",
+   "releaseDate": "2015-09-30",
+   "price": 750
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Matador",
+   "releaseDate": "2010-05-11",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Moo Cow",
+   "releaseDate": "2017-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Alistar",
+   "skinName": "Sweeper",
+   "releaseDate": "2014-06-18",
+   "price": 750
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Almost-Prom King",
+   "releaseDate": "2011-02-07",
+   "price": 520
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Emumu",
+   "releaseDate": "2010-08-01",
+   "price": 520
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Heartache",
+   "releaseDate": "2023-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Infernal",
+   "releaseDate": "2018-10-16",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Little Knight",
+   "releaseDate": "2011-07-18",
+   "price": 750
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Original",
+   "releaseDate": "2009-06-25",
+   "price": 260
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Pharaoh",
+   "releaseDate": "2010-02-02",
+   "price": 520
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Porcelain",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Pumpkin Prince",
+   "releaseDate": "2020-10-22",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Re-Gifted",
+   "releaseDate": "2010-12-14",
+   "price": 520
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Sad Robot",
+   "releaseDate": "2012-05-28",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Surprise Party",
+   "releaseDate": "2015-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Amumu",
+   "skinName": "Vancouver",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Bewitching Batnivia",
+   "releaseDate": "2022-10-20",
+   "price": 1350
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Bird of Prey",
+   "releaseDate": "2010-05-02",
+   "price": 520
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Blackfrost",
+   "releaseDate": "2013-04-29",
+   "price": 1820
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Cosmic Flight",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Divine Phoenix",
+   "releaseDate": "2021-09-02",
+   "price": 1350
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Festival Queen",
+   "releaseDate": "2017-02-23",
+   "price": 975
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Hextech",
+   "releaseDate": "2011-03-01",
+   "price": 750
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Noxus Hunter",
+   "releaseDate": "2010-08-24",
+   "price": 520
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Original",
+   "releaseDate": "2009-07-09",
+   "price": 790
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Papercraft",
+   "releaseDate": "2019-02-21",
+   "price": 1350
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Prehistoric",
+   "releaseDate": "2015-06-14",
+   "price": 750
+ },
+ {
+   "champion": "Anivia",
+   "skinName": "Team Spirit",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Annie in Wonderland",
+   "releaseDate": "2010-08-16",
+   "price": 1820
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Annie",
+   "skinName": "FrankenTibbers",
+   "releaseDate": "2011-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Frostfire",
+   "releaseDate": "2011-05-24",
+   "price": 975
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Panda",
+   "releaseDate": "2013-02-08",
+   "price": 975
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Prom Queen",
+   "releaseDate": "2011-02-07",
+   "price": 520
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Red Riding",
+   "releaseDate": "2010-04-27",
+   "price": 520
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Reverse",
+   "releaseDate": "2011-09-06",
+   "price": 975
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2017-10-16",
+   "price": 1350
+ },
+ {
+   "champion": "Annie",
+   "skinName": "Sweetheart",
+   "releaseDate": "2015-02-13",
+   "price": 750
+ },
+ {
+   "champion": "Aphelios",
+   "skinName": "EDG",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Aphelios",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Aphelios",
+   "skinName": "Nightbringer",
+   "releaseDate": "2019-12-11",
+   "price": 1350
+ },
+ {
+   "champion": "Aphelios",
+   "skinName": "Original",
+   "releaseDate": "2019-12-11",
+   "price": 975
+ },
+ {
+   "champion": "Aphelios",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Amethyst",
+   "releaseDate": "2011-11-15",
+   "price": 975
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Championship",
+   "releaseDate": "2017-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Cosmic Queen",
+   "releaseDate": "2018-08-21",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Coven",
+   "releaseDate": "2021-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Fae Dragon",
+   "releaseDate": "2020-10-01",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Freljord",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Heartseeker",
+   "releaseDate": "2014-02-14",
+   "price": 975
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "High Noon",
+   "releaseDate": "2019-10-10",
+   "price": 1820
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Lunar Empress",
+   "releaseDate": "2023-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Marauder",
+   "releaseDate": "2015-02-17",
+   "price": 750
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Ocean Song",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "PROJECT",
+   "releaseDate": "2016-08-01",
+   "price": 1820
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Queen",
+   "releaseDate": "2010-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Sherwood Forest",
+   "releaseDate": "2010-04-08",
+   "price": 520
+ },
+ {
+   "champion": "Ashe",
+   "skinName": "Woad",
+   "releaseDate": "2010-07-18",
+   "price": 520
+ },
+ {
+   "champion": "Aurelion Sol",
+   "skinName": "Ashen Lord",
+   "releaseDate": "2016-03-24",
+   "price": 1350
+ },
+ {
+   "champion": "Aurelion Sol",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Aurelion Sol",
+   "skinName": "Mecha",
+   "releaseDate": "2018-08-16",
+   "price": 1350
+ },
+ {
+   "champion": "Aurelion Sol",
+   "skinName": "Original",
+   "releaseDate": "2016-03-24",
+   "price": 880
+ },
+ {
+   "champion": "Aurelion Sol",
+   "skinName": "Storm Dragon",
+   "releaseDate": "2020-10-01",
+   "price": 1350
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Elderwood",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Galactic",
+   "releaseDate": "2014-09-15",
+   "price": 975
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Gravelord",
+   "releaseDate": "2015-12-01",
+   "price": 1350
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Original",
+   "releaseDate": "2014-09-15",
+   "price": 880
+ },
+ {
+   "champion": "Azir",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2017-01-19",
+   "price": 1350
+ },
+ {
+   "champion": "Azir",
+   "skinName": "Worlds 2022",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Astronaut",
+   "releaseDate": "2020-05-28",
+   "price": 1350
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Bard Bard",
+   "releaseDate": "2016-11-17",
+   "price": 750
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Elderwood",
+   "releaseDate": "2015-03-12",
+   "price": 975
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Original",
+   "releaseDate": "2015-03-12",
+   "price": 880
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2023-06-14",
+   "price": 1350
+ },
+ {
+   "champion": "Bard",
+   "skinName": "Snow Day",
+   "releaseDate": "2015-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Bel'Veth",
+   "skinName": "Battle Boss",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Bel'Veth",
+   "skinName": "Original",
+   "releaseDate": "2022-06-09",
+   "price": 975
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Battle Boss",
+   "releaseDate": "2015-08-19",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Boom Boom",
+   "releaseDate": "2010-08-29",
+   "price": 520
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Definitely Not",
+   "releaseDate": "2011-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Goalkeeper",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Lancer Paragon",
+   "releaseDate": "2017-11-16",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Lancer Rogue",
+   "releaseDate": "2017-11-16",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Original",
+   "releaseDate": "2009-09-01",
+   "price": 790
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Piltover Customs",
+   "releaseDate": "2011-03-07",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Riot",
+   "releaseDate": "2013-10-21",
+   "price": 975
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Rusty",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1820
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Witch's Brew",
+   "releaseDate": "2019-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "Zenith Games",
+   "releaseDate": "2022-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Blitzcrank",
+   "skinName": "iBlitzcrank",
+   "releaseDate": "2013-03-01",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Apocalyptic",
+   "releaseDate": "2011-04-12",
+   "price": 750
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Arclight",
+   "releaseDate": "2019-03-07",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Battle Boss",
+   "releaseDate": "2017-08-08",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Cryocore",
+   "releaseDate": "2011-10-05",
+   "price": 975
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Eternal Dragon",
+   "releaseDate": "2020-10-01",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Original",
+   "releaseDate": "2011-04-12",
+   "price": 880
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Spirit Fire",
+   "releaseDate": "2015-10-21",
+   "price": 1350
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Vandal",
+   "releaseDate": "2011-04-12",
+   "price": 520
+ },
+ {
+   "champion": "Brand",
+   "skinName": "Zombie",
+   "releaseDate": "2012-10-26",
+   "price": 1820
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Braum Lionheart",
+   "releaseDate": "2015-12-07",
+   "price": 750
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Crime City",
+   "releaseDate": "2018-08-23",
+   "price": 1350
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2014-05-11",
+   "price": 975
+ },
+ {
+   "champion": "Braum",
+   "skinName": "El Tigre",
+   "releaseDate": "2015-01-21",
+   "price": 1350
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Original",
+   "releaseDate": "2014-05-11",
+   "price": 880
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Pool Party",
+   "releaseDate": "2021-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Santa",
+   "releaseDate": "2016-12-14",
+   "price": 1350
+ },
+ {
+   "champion": "Braum",
+   "skinName": "Sugar Rush",
+   "releaseDate": "2019-12-17",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Arcade",
+   "releaseDate": "2019-06-28",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Arcane",
+   "releaseDate": "2021-11-22",
+   "price": 975
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Arctic Warfare",
+   "releaseDate": "2011-12-29",
+   "price": 750
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Battle Academia",
+   "releaseDate": "2021-03-18",
+   "price": 1820
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Headhunter",
+   "releaseDate": "2014-09-03",
+   "price": 975
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Heartthrob",
+   "releaseDate": "2023-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Lunar Wraith",
+   "releaseDate": "2016-01-27",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Officer",
+   "releaseDate": "2011-10-05",
+   "price": 975
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Original",
+   "releaseDate": "2011-01-04",
+   "price": 880
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Pool Party",
+   "releaseDate": "2018-08-02",
+   "price": 1350
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Pulsefire",
+   "releaseDate": "2017-05-24",
+   "price": 1820
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Resistance",
+   "releaseDate": "2011-01-04",
+   "price": 520
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Safari",
+   "releaseDate": "2011-05-10",
+   "price": 975
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Sheriff",
+   "releaseDate": "2011-01-04",
+   "price": 520
+ },
+ {
+   "champion": "Caitlyn",
+   "skinName": "Snow Moon",
+   "releaseDate": "2022-06-23",
+   "price": 1350
+ },
+ {
+   "champion": "Camille",
+   "skinName": "Arcana",
+   "releaseDate": "2021-05-13",
+   "price": 1350
+ },
+ {
+   "champion": "Camille",
+   "skinName": "Coven",
+   "releaseDate": "2018-11-27",
+   "price": 1350
+ },
+ {
+   "champion": "Camille",
+   "skinName": "Original",
+   "releaseDate": "2016-12-07",
+   "price": 975
+ },
+ {
+   "champion": "Camille",
+   "skinName": "Program",
+   "releaseDate": "2016-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Camille",
+   "skinName": "Strike Commander",
+   "releaseDate": "2022-08-25",
+   "price": 1350
+ },
+ {
+   "champion": "Camille",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Bewitching",
+   "releaseDate": "2022-10-20",
+   "price": 1350
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Coven",
+   "releaseDate": "2021-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Desperada",
+   "releaseDate": "2010-12-14",
+   "price": 520
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Eternum",
+   "releaseDate": "2017-09-20",
+   "price": 1350
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Jade Fang",
+   "releaseDate": "2013-02-08",
+   "price": 975
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Mythic",
+   "releaseDate": "2012-07-18",
+   "price": 975
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Original",
+   "releaseDate": "2010-12-14",
+   "price": 880
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Siren",
+   "releaseDate": "2010-12-14",
+   "price": 520
+ },
+ {
+   "champion": "Cassiopeia",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-08-06",
+   "price": 1350
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Battlecast Prime",
+   "releaseDate": "2012-08-03",
+   "price": 1820
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Gentleman",
+   "releaseDate": "2010-05-11",
+   "price": 1820
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Jurassic",
+   "releaseDate": "2011-11-01",
+   "price": 975
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Loch Ness",
+   "releaseDate": "2011-03-01",
+   "price": 520
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Nightmare",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Original",
+   "releaseDate": "2009-06-25",
+   "price": 585
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Prehistoric",
+   "releaseDate": "2015-06-14",
+   "price": 750
+ },
+ {
+   "champion": "Cho'Gath",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2021-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Arcade",
+   "releaseDate": "2016-08-24",
+   "price": 1350
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Astronaut",
+   "releaseDate": "2021-07-01",
+   "price": 1350
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Corgi",
+   "releaseDate": "2019-03-27",
+   "price": 1350
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Dragonwing",
+   "releaseDate": "2013-02-08",
+   "price": 975
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Fnatic",
+   "releaseDate": "2014-09-24",
+   "price": 750
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Hot Rod",
+   "releaseDate": "2010-07-27",
+   "price": 520
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Ice Toboggan",
+   "releaseDate": "2010-02-12",
+   "price": 1820
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Original",
+   "releaseDate": "2009-09-18",
+   "price": 790
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Red Baron",
+   "releaseDate": "2010-03-24",
+   "price": 1820
+ },
+ {
+   "champion": "Corki",
+   "skinName": "Urfrider",
+   "releaseDate": "2011-04-04",
+   "price": 975
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Academy",
+   "releaseDate": "2015-08-26",
+   "price": 750
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Bioforge",
+   "releaseDate": "2012-11-13",
+   "price": 975
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Crime City Nightmare",
+   "releaseDate": "2021-08-26",
+   "price": 1350
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Dunkmaster",
+   "releaseDate": "2014-10-12",
+   "price": 1820
+ },
+ {
+   "champion": "Darius",
+   "skinName": "God-King",
+   "releaseDate": "2018-06-27",
+   "price": 1820
+ },
+ {
+   "champion": "Darius",
+   "skinName": "High Noon",
+   "releaseDate": "2019-10-10",
+   "price": 1350
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Lord",
+   "releaseDate": "2012-05-22",
+   "price": 975
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Original",
+   "releaseDate": "2012-05-22",
+   "price": 880
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Darius",
+   "skinName": "Woad King",
+   "releaseDate": "2013-06-16",
+   "price": 975
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Battle Queen",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Blood Moon",
+   "releaseDate": "2017-02-09",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Dark Valkyrie",
+   "releaseDate": "2012-08-07",
+   "price": 975
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Dark Waters",
+   "releaseDate": "2018-05-31",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2020-01-30",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Firecracker",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Infernal",
+   "releaseDate": "2016-04-20",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Lunar Goddess",
+   "releaseDate": "2014-01-28",
+   "price": 975
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Original",
+   "releaseDate": "2012-08-07",
+   "price": 880
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-08",
+   "price": 1350
+ },
+ {
+   "champion": "Diana",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1820
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Corporate Mundo",
+   "releaseDate": "2010-09-12",
+   "price": 1820
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "El Macho Mundo",
+   "releaseDate": "2016-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Executioner Mundo",
+   "releaseDate": "2011-06-17",
+   "price": 520
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Frozen Prince Mundo",
+   "releaseDate": "2018-12-06",
+   "price": 1350
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Mr. Mundoverse",
+   "releaseDate": "2010-03-24",
+   "price": 520
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Mundo Mundo",
+   "releaseDate": "2010-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Original",
+   "releaseDate": "2009-09-01",
+   "price": 260
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Pool Party Mundo",
+   "releaseDate": "2015-06-25",
+   "price": 975
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Rageborn Mundo",
+   "releaseDate": "2012-07-27",
+   "price": 975
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "TPA Mundo",
+   "releaseDate": "2013-05-23",
+   "price": 750
+ },
+ {
+   "champion": "Dr. Mundo",
+   "skinName": "Toxic",
+   "releaseDate": "2009-12-17",
+   "price": 520
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Beast Hunter",
+   "releaseDate": "2016-02-04",
+   "price": 750
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Draven Draven",
+   "releaseDate": "2016-03-31",
+   "price": 500
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Gladiator",
+   "releaseDate": "2013-03-25",
+   "price": 975
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Mecha Kingdoms",
+   "releaseDate": "2020-01-15",
+   "price": 1350
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Original",
+   "releaseDate": "2012-06-05",
+   "price": 880
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Pool Party",
+   "releaseDate": "2015-06-25",
+   "price": 975
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Primetime",
+   "releaseDate": "2014-06-20",
+   "price": 975
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Ruined",
+   "releaseDate": "2021-01-21",
+   "price": 1350
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Santa",
+   "releaseDate": "2017-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Draven",
+   "skinName": "Soul Reaver",
+   "releaseDate": "2012-06-05",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Academy",
+   "releaseDate": "2015-08-26",
+   "price": 750
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Firelight",
+   "releaseDate": "2022-02-17",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Original",
+   "releaseDate": "2015-05-27",
+   "price": 880
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "PROJECT",
+   "releaseDate": "2016-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Pulsefire",
+   "releaseDate": "2020-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Sandstorm",
+   "releaseDate": "2015-05-27",
+   "price": 975
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-14",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "Trick or Treat",
+   "releaseDate": "2018-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Ekko",
+   "skinName": "True Damage",
+   "releaseDate": "2019-11-10",
+   "price": 1820
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Bewitching",
+   "releaseDate": "2020-10-22",
+   "price": 1350
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Blood Moon",
+   "releaseDate": "2015-01-08",
+   "price": 975
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Death Blossom",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Original",
+   "releaseDate": "2012-10-26",
+   "price": 880
+ },
+ {
+   "champion": "Elise",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2017-10-16",
+   "price": 1350
+ },
+ {
+   "champion": "Elise",
+   "skinName": "Withered Rose",
+   "releaseDate": "2022-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Blood Moon",
+   "releaseDate": "2018-05-08",
+   "price": 975
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Coven",
+   "releaseDate": "2021-08-12",
+   "price": 1820
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "KDA",
+   "releaseDate": "2018-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "KDA ALL OUT",
+   "releaseDate": "2020-10-29",
+   "price": 1350
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Masquerade",
+   "releaseDate": "2010-05-17",
+   "price": 520
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Original",
+   "releaseDate": "2009-04-30",
+   "price": 585
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Safecracker",
+   "releaseDate": "2014-11-28",
+   "price": 750
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Shadow",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Sugar Rush",
+   "releaseDate": "2019-12-17",
+   "price": 1350
+ },
+ {
+   "champion": "Evelynn",
+   "skinName": "Tango",
+   "releaseDate": "2010-10-05",
+   "price": 520
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Ace of Spades",
+   "releaseDate": "2015-05-20",
+   "price": 750
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Arcade",
+   "releaseDate": "2016-08-24",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Battle Academia",
+   "releaseDate": "2019-05-15",
+   "price": 1820
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Debonair",
+   "releaseDate": "2014-08-05",
+   "price": 750
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Explorer",
+   "releaseDate": "2010-10-13",
+   "price": 750
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Frosted",
+   "releaseDate": "2010-07-18",
+   "price": 520
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Nottingham",
+   "releaseDate": "2010-03-16",
+   "price": 520
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Original",
+   "releaseDate": "2010-03-16",
+   "price": 880
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Pajama Guardian",
+   "releaseDate": "2018-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Porcelain Protector",
+   "releaseDate": "2022-01-26",
+   "price": 1820
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-03",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Pulsefire",
+   "releaseDate": "2012-06-29",
+   "price": 3250
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Star Guardian",
+   "releaseDate": "2017-09-06",
+   "price": 1350
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "Striker",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Ezreal",
+   "skinName": "TPA",
+   "releaseDate": "2013-05-23",
+   "price": 750
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Bandito",
+   "releaseDate": "2010-08-10",
+   "price": 520
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Dark Candy",
+   "releaseDate": "2012-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Fiddle Me Timbers",
+   "releaseDate": "2010-04-26",
+   "price": 750
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Praetorian",
+   "releaseDate": "2018-11-08",
+   "price": 1350
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Pumpkinhead",
+   "releaseDate": "2010-10-19",
+   "price": 520
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Risen",
+   "releaseDate": "2015-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Spectral",
+   "releaseDate": "2010-03-16",
+   "price": 520
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Star Nemesis",
+   "releaseDate": "2022-07-14",
+   "price": 1350
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Surprise Party",
+   "releaseDate": "2011-10-27",
+   "price": 975
+ },
+ {
+   "champion": "Fiddlesticks",
+   "skinName": "Union Jack",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Bewitching",
+   "releaseDate": "2021-10-07",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Headmistress",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Heartpiercer",
+   "releaseDate": "2019-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Nightraven",
+   "releaseDate": "2012-02-29",
+   "price": 750
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Original",
+   "releaseDate": "2012-02-29",
+   "price": 880
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "PROJECT",
+   "releaseDate": "2015-09-07",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Pool Party",
+   "releaseDate": "2016-07-13",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Pulsefire",
+   "releaseDate": "2020-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Royal Guard",
+   "releaseDate": "2012-02-29",
+   "price": 520
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "Soaring Sword",
+   "releaseDate": "2017-09-27",
+   "price": 1350
+ },
+ {
+   "champion": "Fiora",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Astronaut",
+   "releaseDate": "2023-02-24",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Atlantean",
+   "releaseDate": "2011-11-15",
+   "price": 520
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Cottontail",
+   "releaseDate": "2015-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Fisherman",
+   "releaseDate": "2012-04-01",
+   "price": 975
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Fuzz",
+   "releaseDate": "2019-03-27",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Little Devil",
+   "releaseDate": "2020-10-22",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Omega Squad",
+   "releaseDate": "2017-07-26",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Original",
+   "releaseDate": "2011-11-15",
+   "price": 880
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2016-05-25",
+   "price": 1350
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Tundra",
+   "releaseDate": "2011-11-15",
+   "price": 750
+ },
+ {
+   "champion": "Fizz",
+   "skinName": "Void",
+   "releaseDate": "2014-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Birdio",
+   "releaseDate": "2018-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Commando",
+   "releaseDate": "2011-01-18",
+   "price": 520
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Debonair",
+   "releaseDate": "2015-04-13",
+   "price": 750
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Dragon Guardian",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Enchanted",
+   "releaseDate": "2010-08-10",
+   "price": 520
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Gatekeeper",
+   "releaseDate": "2012-04-23",
+   "price": 1820
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Hextech",
+   "releaseDate": "2010-08-10",
+   "price": 520
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Infernal",
+   "releaseDate": "2019-09-05",
+   "price": 1350
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Mythmaker",
+   "releaseDate": "2023-01-12",
+   "price": 1350
+ },
+ {
+   "champion": "Galio",
+   "skinName": "Original",
+   "releaseDate": "2010-08-10",
+   "price": 790
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Captain",
+   "releaseDate": "2015-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Dreadnova",
+   "releaseDate": "2017-01-12",
+   "price": 1350
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "FPX",
+   "releaseDate": "2020-04-30",
+   "price": 1350
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Gangplank the Betrayer",
+   "releaseDate": "2022-05-05",
+   "price": 1350
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Minuteman",
+   "releaseDate": "2010-07-03",
+   "price": 520
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Original",
+   "releaseDate": "2009-08-18",
+   "price": 790
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Pool Party",
+   "releaseDate": "2018-08-02",
+   "price": 1350
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Sailor",
+   "releaseDate": "2011-01-10",
+   "price": 750
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Special Forces",
+   "releaseDate": "2012-09-12",
+   "price": 975
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Spooky",
+   "releaseDate": "2010-03-16",
+   "price": 520
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Sultan",
+   "releaseDate": "2013-11-13",
+   "price": 975
+ },
+ {
+   "champion": "Gangplank",
+   "skinName": "Toy Soldier",
+   "releaseDate": "2011-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Battle Academia",
+   "releaseDate": "2021-03-18",
+   "price": 1350
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Commando",
+   "releaseDate": "2010-09-08",
+   "price": 520
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Demacia Vice",
+   "releaseDate": "2019-07-18",
+   "price": 1350
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Desert Trooper",
+   "releaseDate": "2010-04-27",
+   "price": 520
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Dreadknight",
+   "releaseDate": "2011-01-18",
+   "price": 975
+ },
+ {
+   "champion": "Garen",
+   "skinName": "God-King",
+   "releaseDate": "2018-06-27",
+   "price": 1820
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Mecha Kingdoms",
+   "releaseDate": "2020-01-15",
+   "price": 1350
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Mythmaker",
+   "releaseDate": "2023-01-12",
+   "price": 1350
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Original",
+   "releaseDate": "2010-04-27",
+   "price": 260
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Rogue Admiral",
+   "releaseDate": "2015-07-22",
+   "price": 750
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Rugged",
+   "releaseDate": "2011-08-15",
+   "price": 750
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Sanguine",
+   "releaseDate": "2010-04-27",
+   "price": 520
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Steel Legion",
+   "releaseDate": "2013-02-01",
+   "price": 1350
+ },
+ {
+   "champion": "Garen",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2017-01-19",
+   "price": 1350
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Astronaut",
+   "releaseDate": "2020-05-28",
+   "price": 1350
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Dino",
+   "releaseDate": "2014-08-13",
+   "price": 975
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "El León",
+   "releaseDate": "2016-06-01",
+   "price": 750
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Elderwood",
+   "releaseDate": "2022-01-06",
+   "price": 1350
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Gentleman",
+   "releaseDate": "2015-07-14",
+   "price": 975
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Original",
+   "releaseDate": "2014-08-13",
+   "price": 880
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Snow Day",
+   "releaseDate": "2015-12-10",
+   "price": 975
+ },
+ {
+   "champion": "Gnar",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2017-10-16",
+   "price": 1350
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Arctic Ops",
+   "releaseDate": "2018-01-25",
+   "price": 1350
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Fnatic",
+   "releaseDate": "2014-09-24",
+   "price": 750
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Gragas Caskbreaker",
+   "releaseDate": "2015-12-07",
+   "price": 750
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Gragas, Esq.",
+   "releaseDate": "2011-04-12",
+   "price": 975
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Hillbilly",
+   "releaseDate": "2010-08-01",
+   "price": 520
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Oktoberfest",
+   "releaseDate": "2012-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Original",
+   "releaseDate": "2010-02-02",
+   "price": 790
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Santa",
+   "releaseDate": "2010-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Scuba",
+   "releaseDate": "2010-05-03",
+   "price": 975
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Superfan",
+   "releaseDate": "2014-06-18",
+   "price": 750
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Vandal",
+   "releaseDate": "2012-03-02",
+   "price": 975
+ },
+ {
+   "champion": "Gragas",
+   "skinName": "Warden",
+   "releaseDate": "2021-01-07",
+   "price": 1350
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Battle Professor",
+   "releaseDate": "2019-05-15",
+   "price": 1350
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Crime City",
+   "releaseDate": "2012-04-02",
+   "price": 975
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Cutthroat",
+   "releaseDate": "2015-07-21",
+   "price": 750
+ },
+ {
+   "champion": "Graves",
+   "skinName": "EDG",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Hired Gun",
+   "releaseDate": "2011-10-19",
+   "price": 520
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Jailbreak",
+   "releaseDate": "2011-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Original",
+   "releaseDate": "2011-10-19",
+   "price": 880
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Pool Party",
+   "releaseDate": "2013-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Praetorian",
+   "releaseDate": "2018-11-08",
+   "price": 1350
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Riot",
+   "releaseDate": "2012-08-16",
+   "price": 975
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-22",
+   "price": 1820
+ },
+ {
+   "champion": "Graves",
+   "skinName": "Snow Day",
+   "releaseDate": "2016-12-14",
+   "price": 1350
+ },
+ {
+   "champion": "Gwen",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Gwen",
+   "skinName": "Original",
+   "releaseDate": "2021-04-15",
+   "price": 975
+ },
+ {
+   "champion": "Gwen",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Arcade",
+   "releaseDate": "2013-08-21",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Arcana",
+   "releaseDate": "2022-04-14",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Blood Knight",
+   "releaseDate": "2012-04-17",
+   "price": 975
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Cosmic Charger",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Elderwood",
+   "releaseDate": "2015-11-25",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Headless",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "High Noon",
+   "releaseDate": "2019-10-10",
+   "price": 1350
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Original",
+   "releaseDate": "2012-04-17",
+   "price": 880
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Reaper",
+   "releaseDate": "2012-04-17",
+   "price": 975
+ },
+ {
+   "champion": "Hecarim",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2016-11-10",
+   "price": 750
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Alien Invader",
+   "releaseDate": "2010-07-13",
+   "price": 1820
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Blast Zone",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Dragon Trainer",
+   "releaseDate": "2018-10-11",
+   "price": 1820
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Hazmat",
+   "releaseDate": "2014-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Heimerstinger",
+   "releaseDate": "2022-03-03",
+   "price": 1350
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Original",
+   "releaseDate": "2009-10-09",
+   "price": 790
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Piltover Customs",
+   "releaseDate": "2010-11-22",
+   "price": 975
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Pool Party",
+   "releaseDate": "2020-07-02",
+   "price": 1350
+ },
+ {
+   "champion": "Heimerdinger",
+   "skinName": "Snowmerdinger",
+   "releaseDate": "2011-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Illaoi",
+   "skinName": "Cosmic Invoker",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Illaoi",
+   "skinName": "Original",
+   "releaseDate": "2015-11-24",
+   "price": 880
+ },
+ {
+   "champion": "Illaoi",
+   "skinName": "Resistance",
+   "releaseDate": "2018-03-15",
+   "price": 1350
+ },
+ {
+   "champion": "Illaoi",
+   "skinName": "Snow Moon",
+   "releaseDate": "2022-06-23",
+   "price": 1350
+ },
+ {
+   "champion": "Illaoi",
+   "skinName": "Void Bringer",
+   "releaseDate": "2015-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Aviator",
+   "releaseDate": "2010-11-16",
+   "price": 520
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Divine Sword",
+   "releaseDate": "2018-09-04",
+   "price": 1350
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Frostblade",
+   "releaseDate": "2012-04-30",
+   "price": 975
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "High Noon",
+   "releaseDate": "2020-06-18",
+   "price": 1350
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Infiltrator",
+   "releaseDate": "2011-10-11",
+   "price": 975
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Mythmaker",
+   "releaseDate": "2023-01-12",
+   "price": 1820
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Nightblade",
+   "releaseDate": "2010-11-16",
+   "price": 520
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Order of the Lotus",
+   "releaseDate": "2015-06-03",
+   "price": 750
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Original",
+   "releaseDate": "2010-11-16",
+   "price": 880
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "PROJECT",
+   "releaseDate": "2019-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-08",
+   "price": 1350
+ },
+ {
+   "champion": "Irelia",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Ivern",
+   "skinName": "Astronaut",
+   "releaseDate": "2023-02-24",
+   "price": 1350
+ },
+ {
+   "champion": "Ivern",
+   "skinName": "Candy King",
+   "releaseDate": "2016-10-04",
+   "price": 1350
+ },
+ {
+   "champion": "Ivern",
+   "skinName": "Dunkmaster",
+   "releaseDate": "2019-04-04",
+   "price": 1350
+ },
+ {
+   "champion": "Ivern",
+   "skinName": "Old God",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Ivern",
+   "skinName": "Original",
+   "releaseDate": "2016-10-04",
+   "price": 975
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Battle Queen",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Bewitching",
+   "releaseDate": "2018-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Crystal Rose",
+   "releaseDate": "2022-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Cyber Halo",
+   "releaseDate": "2022-08-25",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Fnatic",
+   "releaseDate": "2014-09-24",
+   "price": 750
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Forecast",
+   "releaseDate": "2013-09-04",
+   "price": 1820
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Frost Queen",
+   "releaseDate": "2011-12-05",
+   "price": 975
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2020-01-22",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Hextech",
+   "releaseDate": "2010-11-08",
+   "price": 975
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Original",
+   "releaseDate": "2009-09-01",
+   "price": 585
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Sacred Sword",
+   "releaseDate": "2017-09-27",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Star Guardian",
+   "releaseDate": "2016-10-05",
+   "price": 1350
+ },
+ {
+   "champion": "Janna",
+   "skinName": "Tempest",
+   "releaseDate": "2010-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Commando",
+   "releaseDate": "2011-03-01",
+   "price": 520
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Dark Star",
+   "releaseDate": "2018-03-01",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Darkforge",
+   "releaseDate": "2011-07-26",
+   "price": 975
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2011-03-01",
+   "price": 750
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Fnatic",
+   "releaseDate": "2014-09-24",
+   "price": 750
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Nightbringer",
+   "releaseDate": "2023-04-20",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Original",
+   "releaseDate": "2011-03-01",
+   "price": 880
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Pool Party",
+   "releaseDate": "2020-07-02",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2013-02-08",
+   "price": 1350
+ },
+ {
+   "champion": "Jarvan IV",
+   "skinName": "Worlds 2021",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Angler",
+   "releaseDate": "2010-06-08",
+   "price": 975
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Conqueror",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Jax",
+   "skinName": "God Staff",
+   "releaseDate": "2018-01-11",
+   "price": 1350
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Jaximus",
+   "releaseDate": "2011-05-10",
+   "price": 975
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Mecha Kingdoms",
+   "releaseDate": "2020-01-15",
+   "price": 1820
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Nemesis",
+   "releaseDate": "2012-09-14",
+   "price": 975
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Jax",
+   "skinName": "SKT T1",
+   "releaseDate": "2014-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Temple",
+   "releaseDate": "2011-11-15",
+   "price": 750
+ },
+ {
+   "champion": "Jax",
+   "skinName": "The Mighty",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Vandal",
+   "releaseDate": "2010-02-24",
+   "price": 520
+ },
+ {
+   "champion": "Jax",
+   "skinName": "Warden",
+   "releaseDate": "2015-09-30",
+   "price": 750
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Arcane",
+   "releaseDate": "2021-11-08",
+   "price": 975
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Battle Academia",
+   "releaseDate": "2019-05-15",
+   "price": 1350
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Debonair",
+   "releaseDate": "2013-02-14",
+   "price": 975
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Forsaken",
+   "releaseDate": "2015-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Full Metal",
+   "releaseDate": "2012-07-06",
+   "price": 1350
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Jayce Brighthammer",
+   "releaseDate": "2016-11-17",
+   "price": 750
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Original",
+   "releaseDate": "2012-07-06",
+   "price": 880
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Resistance",
+   "releaseDate": "2020-11-12",
+   "price": 1350
+ },
+ {
+   "champion": "Jayce",
+   "skinName": "Zenith Games",
+   "releaseDate": "2022-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "Blood Moon",
+   "releaseDate": "2017-02-09",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "DWG",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "Dark Cosmic",
+   "releaseDate": "2019-06-13",
+   "price": 1820
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "High Noon",
+   "releaseDate": "2016-02-01",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "Original",
+   "releaseDate": "2016-02-01",
+   "price": 880
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "PROJECT",
+   "releaseDate": "2017-11-22",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Jhin",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2021-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Ambitious Elf",
+   "releaseDate": "2017-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Arcane",
+   "releaseDate": "2021-11-24",
+   "price": 975
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Battle Cat",
+   "releaseDate": "2022-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Crime City",
+   "releaseDate": "2013-10-09",
+   "price": 975
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Firecracker",
+   "releaseDate": "2015-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Heartseeker",
+   "releaseDate": "2020-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Original",
+   "releaseDate": "2013-10-09",
+   "price": 880
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "PROJECT",
+   "releaseDate": "2019-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Star Guardian",
+   "releaseDate": "2016-10-05",
+   "price": 1820
+ },
+ {
+   "champion": "Jinx",
+   "skinName": "Zombie Slayer",
+   "releaseDate": "2015-11-05",
+   "price": 1350
+ },
+ {
+   "champion": "K'Sante",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "K'Sante",
+   "skinName": "Original",
+   "releaseDate": "2022-11-03",
+   "price": 975
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Arcade",
+   "releaseDate": "2019-06-28",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Bullet Angel",
+   "releaseDate": "2018-03-07",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "KDA",
+   "releaseDate": "2018-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "KDA ALL OUT",
+   "releaseDate": "2020-10-29",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Lagoon Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1350
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Original",
+   "releaseDate": "2018-03-07",
+   "price": 975
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-14",
+   "price": 1820
+ },
+ {
+   "champion": "Kai'Sa",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "Blood Moon",
+   "releaseDate": "2014-11-20",
+   "price": 975
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "Championship",
+   "releaseDate": "2015-09-27",
+   "price": 975
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "Marauder",
+   "releaseDate": "2021-01-07",
+   "price": 1350
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "Original",
+   "releaseDate": "2014-11-20",
+   "price": 880
+ },
+ {
+   "champion": "Kalista",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Conqueror",
+   "releaseDate": "2017-04-23",
+   "price": 975
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Dark Star",
+   "releaseDate": "2019-06-13",
+   "price": 1350
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Faerie Queen",
+   "releaseDate": "2023-03-23",
+   "price": 1820
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Odyssey",
+   "releaseDate": "2020-10-15",
+   "price": 1350
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Order of the Lotus",
+   "releaseDate": "2014-10-01",
+   "price": 975
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Original",
+   "releaseDate": "2011-02-01",
+   "price": 790
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Ruined",
+   "releaseDate": "2021-01-21",
+   "price": 1350
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Sakura",
+   "releaseDate": "2011-02-01",
+   "price": 520
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Sun Goddess",
+   "releaseDate": "2011-02-01",
+   "price": 750
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Traditional",
+   "releaseDate": "2013-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Tranquility Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1350
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Warden",
+   "releaseDate": "2015-09-30",
+   "price": 750
+ },
+ {
+   "champion": "Karma",
+   "skinName": "Winter Wonder",
+   "releaseDate": "2016-12-14",
+   "price": 1350
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Fnatic",
+   "releaseDate": "2014-09-24",
+   "price": 750
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Grim Reaper",
+   "releaseDate": "2010-09-26",
+   "price": 975
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Infernal",
+   "releaseDate": "2020-07-16",
+   "price": 1350
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Karthus Lightsbane",
+   "releaseDate": "2016-11-17",
+   "price": 975
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Original",
+   "releaseDate": "2009-06-11",
+   "price": 790
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Pentakill",
+   "releaseDate": "2011-08-29",
+   "price": 750
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Phantom",
+   "releaseDate": "2010-01-13",
+   "price": 460
+ },
+ {
+   "champion": "Karthus",
+   "skinName": "Statue of Karthus",
+   "releaseDate": "2010-07-03",
+   "price": 520
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Cosmic Reaver",
+   "releaseDate": "2015-10-14",
+   "price": 1350
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Count",
+   "releaseDate": "2019-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Deep One",
+   "releaseDate": "2010-08-01",
+   "price": 520
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Festival",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Harbinger",
+   "releaseDate": "2011-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Original",
+   "releaseDate": "2009-08-06",
+   "price": 790
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Pre-Void",
+   "releaseDate": "2010-09-26",
+   "price": 520
+ },
+ {
+   "champion": "Kassadin",
+   "skinName": "Shockblade",
+   "releaseDate": "2022-02-17",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Battle Academia",
+   "releaseDate": "2019-05-15",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Battle Queen",
+   "releaseDate": "2020-12-10",
+   "price": 1820
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Bilgewater",
+   "releaseDate": "2010-08-29",
+   "price": 975
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Blood Moon",
+   "releaseDate": "2020-02-20",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Death Sworn",
+   "releaseDate": "2017-10-25",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "High Command",
+   "releaseDate": "2011-02-22",
+   "price": 750
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Kitty Cat",
+   "releaseDate": "2010-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Mercenary",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Original",
+   "releaseDate": "2009-09-18",
+   "price": 790
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "PROJECT",
+   "releaseDate": "2016-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Red Card",
+   "releaseDate": "2010-06-24",
+   "price": 975
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Sandstorm",
+   "releaseDate": "2012-01-02",
+   "price": 975
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Slay Belle",
+   "releaseDate": "2012-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Katarina",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2015-02-10",
+   "price": 975
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Aether Wing",
+   "releaseDate": "2013-01-18",
+   "price": 1820
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Battleborn",
+   "releaseDate": "2011-04-18",
+   "price": 975
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Iron Inquisitor",
+   "releaseDate": "2016-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Pentakill",
+   "releaseDate": "2017-08-08",
+   "price": 1350
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-17",
+   "price": 1350
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Riot",
+   "releaseDate": "2014-08-12",
+   "price": 975
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Sun-Eater",
+   "releaseDate": "2022-04-28",
+   "price": 1350
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Transcended",
+   "releaseDate": "2010-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Kayle",
+   "skinName": "Viridian",
+   "releaseDate": "2010-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Kayn",
+   "skinName": "Nightbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Kayn",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1820
+ },
+ {
+   "champion": "Kayn",
+   "skinName": "Original",
+   "releaseDate": "2017-07-11",
+   "price": 975
+ },
+ {
+   "champion": "Kayn",
+   "skinName": "Snow Moon",
+   "releaseDate": "2022-06-23",
+   "price": 1350
+ },
+ {
+   "champion": "Kayn",
+   "skinName": "Soulhunter",
+   "releaseDate": "2017-07-11",
+   "price": 1350
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Arctic Ops",
+   "releaseDate": "2011-12-29",
+   "price": 975
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Astronaut",
+   "releaseDate": "2023-02-24",
+   "price": 1350
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Blood Moon",
+   "releaseDate": "2016-02-25",
+   "price": 975
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "DWG",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Deadly",
+   "releaseDate": "2010-04-08",
+   "price": 520
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Infernal",
+   "releaseDate": "2020-07-16",
+   "price": 1350
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Karate",
+   "releaseDate": "2010-11-08",
+   "price": 520
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Kennen M.D.",
+   "releaseDate": "2011-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Original",
+   "releaseDate": "2010-04-08",
+   "price": 880
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Super",
+   "releaseDate": "2017-03-29",
+   "price": 750
+ },
+ {
+   "champion": "Kennen",
+   "skinName": "Swamp Master",
+   "releaseDate": "2010-04-08",
+   "price": 520
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Championship",
+   "releaseDate": "2018-09-27",
+   "price": 1350
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Dark Star",
+   "releaseDate": "2017-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Death Blossom",
+   "releaseDate": "2016-03-17",
+   "price": 975
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2014-09-09",
+   "price": 975
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Lunar Guardian",
+   "releaseDate": "2023-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Mecha",
+   "releaseDate": "2012-09-26",
+   "price": 1350
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Odyssey",
+   "releaseDate": "2020-10-15",
+   "price": 1350
+ },
+ {
+   "champion": "Kha'Zix",
+   "skinName": "Original",
+   "releaseDate": "2012-09-26",
+   "price": 880
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Original",
+   "releaseDate": "2015-10-13",
+   "price": 880
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Porcelain",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Shadowfire",
+   "releaseDate": "2015-10-13",
+   "price": 1350
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-08-06",
+   "price": 1350
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2016-05-25",
+   "price": 1350
+ },
+ {
+   "champion": "Kindred",
+   "skinName": "Woof and Lamb",
+   "releaseDate": "2023-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Kled",
+   "skinName": "Count Kledula",
+   "releaseDate": "2018-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Kled",
+   "skinName": "Kibble-Head",
+   "releaseDate": "2023-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Kled",
+   "skinName": "Marauder",
+   "releaseDate": "2021-01-07",
+   "price": 1350
+ },
+ {
+   "champion": "Kled",
+   "skinName": "Original",
+   "releaseDate": "2016-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Kled",
+   "skinName": "Sir",
+   "releaseDate": "2016-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Arcanist",
+   "releaseDate": "2020-07-09",
+   "price": 1350
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Battlecast",
+   "releaseDate": "2014-11-25",
+   "price": 1350
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Bee'Maw",
+   "releaseDate": "2021-03-04",
+   "price": 1350
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Caterpillar",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Deep Sea",
+   "releaseDate": "2011-09-19",
+   "price": 975
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Jurassic",
+   "releaseDate": "2012-03-23",
+   "price": 975
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Lion Dance",
+   "releaseDate": "2011-02-01",
+   "price": 1350
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Monarch",
+   "releaseDate": "2010-11-16",
+   "price": 520
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Original",
+   "releaseDate": "2010-06-24",
+   "price": 880
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Pug'Maw",
+   "releaseDate": "2017-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Reindeer",
+   "releaseDate": "2010-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2023-06-14",
+   "price": 1350
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Sonoran",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Kog'Maw",
+   "skinName": "Zap'Maw",
+   "releaseDate": "2022-08-11",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Bewitching",
+   "releaseDate": "2022-10-20",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Championship",
+   "releaseDate": "2020-09-24",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Coven",
+   "releaseDate": "2020-04-16",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Elderwood",
+   "releaseDate": "2016-03-10",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Mistletoe",
+   "releaseDate": "2011-12-14",
+   "price": 975
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Original",
+   "releaseDate": "2010-11-02",
+   "price": 790
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Prestigious",
+   "releaseDate": "2010-11-02",
+   "price": 520
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Program",
+   "releaseDate": "2018-11-15",
+   "price": 1350
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Ravenborn",
+   "releaseDate": "2014-10-28",
+   "price": 975
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "Wicked",
+   "releaseDate": "2010-11-02",
+   "price": 750
+ },
+ {
+   "champion": "LeBlanc",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Acolyte",
+   "releaseDate": "2011-04-01",
+   "price": 750
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Dragon Fist",
+   "releaseDate": "2012-01-10",
+   "price": 975
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "FPX",
+   "releaseDate": "2020-04-30",
+   "price": 1350
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "God Fist",
+   "releaseDate": "2017-04-05",
+   "price": 1820
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Knockout",
+   "releaseDate": "2015-05-31",
+   "price": 1350
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Muay Thai",
+   "releaseDate": "2012-07-24",
+   "price": 975
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Nightbringer",
+   "releaseDate": "2019-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Original",
+   "releaseDate": "2011-04-01",
+   "price": 880
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Playmaker",
+   "releaseDate": "2018-06-14",
+   "price": 975
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Pool Party",
+   "releaseDate": "2013-09-09",
+   "price": 975
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "SKT T1",
+   "releaseDate": "2014-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Storm Dragon",
+   "releaseDate": "2020-10-01",
+   "price": 1820
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Traditional",
+   "releaseDate": "2011-04-01",
+   "price": 520
+ },
+ {
+   "champion": "Lee Sin",
+   "skinName": "Zenith Games",
+   "releaseDate": "2022-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Barbecue",
+   "releaseDate": "2016-09-07",
+   "price": 750
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Battle Academia",
+   "releaseDate": "2021-03-18",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "DWG",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Defender",
+   "releaseDate": "2011-07-13",
+   "price": 750
+ },
+ {
+   "champion": "Leona",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-12",
+   "price": 1820
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Iron Solari",
+   "releaseDate": "2012-02-10",
+   "price": 975
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Lunar Eclipse",
+   "releaseDate": "2018-11-27",
+   "price": 1820
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Mecha Kingdoms",
+   "releaseDate": "2020-01-15",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Original",
+   "releaseDate": "2011-07-13",
+   "price": 880
+ },
+ {
+   "champion": "Leona",
+   "skinName": "PROJECT",
+   "releaseDate": "2015-09-07",
+   "price": 1350
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Pool Party",
+   "releaseDate": "2013-09-09",
+   "price": 975
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Solar Eclipse",
+   "releaseDate": "2018-11-27",
+   "price": 1820
+ },
+ {
+   "champion": "Leona",
+   "skinName": "Valkyrie",
+   "releaseDate": "2011-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Lillia",
+   "skinName": "Nightbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Lillia",
+   "skinName": "Original",
+   "releaseDate": "2020-07-22",
+   "price": 975
+ },
+ {
+   "champion": "Lillia",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2023-06-14",
+   "price": 1350
+ },
+ {
+   "champion": "Lillia",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Blade Queen",
+   "releaseDate": "2014-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Bloodstone",
+   "releaseDate": "2013-04-29",
+   "price": 975
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Coven",
+   "releaseDate": "2018-11-27",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Dark Cosmic",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Original",
+   "releaseDate": "2013-04-29",
+   "price": 880
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Porcelain",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Program",
+   "releaseDate": "2016-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Lissandra",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Arcana",
+   "releaseDate": "2021-05-13",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Demacia Vice",
+   "releaseDate": "2019-07-18",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Heartseeker",
+   "releaseDate": "2017-02-02",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "High Noon",
+   "releaseDate": "2018-08-30",
+   "price": 1820
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Hired Gun",
+   "releaseDate": "2013-08-21",
+   "price": 975
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Original",
+   "releaseDate": "2013-08-21",
+   "price": 975
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "PROJECT",
+   "releaseDate": "2015-09-07",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Pulsefire",
+   "releaseDate": "2020-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Strike Paladin",
+   "releaseDate": "2022-08-25",
+   "price": 1350
+ },
+ {
+   "champion": "Lucian",
+   "skinName": "Striker",
+   "releaseDate": "2014-06-18",
+   "price": 750
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Bittersweet",
+   "releaseDate": "2012-03-20",
+   "price": 975
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Cosmic Enchantress",
+   "releaseDate": "2018-08-21",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Dragon Trainer",
+   "releaseDate": "2012-11-13",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Monster Tamer",
+   "releaseDate": "2022-08-11",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Original",
+   "releaseDate": "2012-03-20",
+   "price": 880
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Pajama Guardian",
+   "releaseDate": "2018-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Pool Party",
+   "releaseDate": "2015-06-25",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Star Guardian",
+   "releaseDate": "2016-10-05",
+   "price": 1350
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Wicked",
+   "releaseDate": "2012-03-20",
+   "price": 975
+ },
+ {
+   "champion": "Lulu",
+   "skinName": "Winter Wonder",
+   "releaseDate": "2013-12-19",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Battle Academia",
+   "releaseDate": "2019-05-15",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Commando",
+   "releaseDate": "2011-06-17",
+   "price": 520
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Cosmic",
+   "releaseDate": "2020-03-26",
+   "price": 1820
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Dark Cosmic",
+   "releaseDate": "2020-03-26",
+   "price": 1820
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Elementalist",
+   "releaseDate": "2016-11-28",
+   "price": 3250
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Imperial",
+   "releaseDate": "2011-11-29",
+   "price": 975
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Lunar Empress",
+   "releaseDate": "2018-02-08",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Original",
+   "releaseDate": "2010-10-19",
+   "price": 790
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Pajama Guardian",
+   "releaseDate": "2018-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Porcelain",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Sorceress",
+   "releaseDate": "2010-10-19",
+   "price": 520
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Soul Fighter",
+   "releaseDate": "2023-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Spellthief",
+   "releaseDate": "2010-10-19",
+   "price": 750
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Star Guardian",
+   "releaseDate": "2015-05-17",
+   "price": 1350
+ },
+ {
+   "champion": "Lux",
+   "skinName": "Steel Legion",
+   "releaseDate": "2013-02-01",
+   "price": 975
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Coral Reef",
+   "releaseDate": "2010-11-08",
+   "price": 750
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Dark Star",
+   "releaseDate": "2020-03-26",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "FPX",
+   "releaseDate": "2020-04-30",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Glacial",
+   "releaseDate": "2012-07-11",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Ironside",
+   "releaseDate": "2015-10-07",
+   "price": 975
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Lunar Guardian",
+   "releaseDate": "2023-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Marble",
+   "releaseDate": "2011-03-21",
+   "price": 520
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Mecha",
+   "releaseDate": "2014-07-23",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Obsidian",
+   "releaseDate": "2011-08-15",
+   "price": 975
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Old God",
+   "releaseDate": "2021-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Original",
+   "releaseDate": "2009-09-01",
+   "price": 585
+ },
+ {
+   "champion": "Malphite",
+   "skinName": "Shamrock",
+   "releaseDate": "2010-03-16",
+   "price": 520
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Battle Boss",
+   "releaseDate": "2017-08-08",
+   "price": 1350
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Beezahar",
+   "releaseDate": "2021-03-04",
+   "price": 1350
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Djinn",
+   "releaseDate": "2011-02-01",
+   "price": 520
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Original",
+   "releaseDate": "2010-06-01",
+   "price": 880
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Overlord",
+   "releaseDate": "2011-09-19",
+   "price": 975
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Shadow Prince",
+   "releaseDate": "2010-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Snow Day",
+   "releaseDate": "2014-12-15",
+   "price": 975
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Vizier",
+   "releaseDate": "2010-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Malzahar",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2020-04-09",
+   "price": 1350
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Astronaut",
+   "releaseDate": "2021-07-01",
+   "price": 1350
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Charred",
+   "releaseDate": "2011-02-16",
+   "price": 975
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "DRX",
+   "releaseDate": "2023-06-01",
+   "price": 1350
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Festive",
+   "releaseDate": "2011-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Goalkeeper",
+   "releaseDate": "2014-06-18",
+   "price": 750
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Haunted",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Meowkai",
+   "releaseDate": "2016-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Original",
+   "releaseDate": "2011-02-16",
+   "price": 880
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Totemic",
+   "releaseDate": "2011-02-16",
+   "price": 520
+ },
+ {
+   "champion": "Maokai",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2020-04-09",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Assassin",
+   "releaseDate": "2009-12-17",
+   "price": 390
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Blood Moon",
+   "releaseDate": "2020-02-20",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Chosen",
+   "releaseDate": "2010-06-03",
+   "price": 520
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Cosmic Blade",
+   "releaseDate": "2017-04-26",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Eternal Sword Yi",
+   "releaseDate": "2017-09-27",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Headhunter",
+   "releaseDate": "2012-02-08",
+   "price": 975
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1820
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Ionia",
+   "releaseDate": "2010-09-12",
+   "price": 975
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "PROJECT Yi",
+   "releaseDate": "2015-09-07",
+   "price": 1820
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-03",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Samurai Yi",
+   "releaseDate": "2011-03-07",
+   "price": 520
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Snow Man Yi",
+   "releaseDate": "2018-12-06",
+   "price": 1350
+ },
+ {
+   "champion": "Master Yi",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Milio",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Milio",
+   "skinName": "Original",
+   "releaseDate": "2023-03-23",
+   "price": 975
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Arcade",
+   "releaseDate": "2014-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Battle Bunny",
+   "releaseDate": "2022-03-31",
+   "price": 1820
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Bewitching",
+   "releaseDate": "2019-10-24",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Candy Cane",
+   "releaseDate": "2010-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Captain Fortune",
+   "releaseDate": "2015-07-30",
+   "price": 975
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Cowgirl",
+   "releaseDate": "2010-09-08",
+   "price": 750
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Crime City",
+   "releaseDate": "2011-11-01",
+   "price": 975
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Gun Goddess",
+   "releaseDate": "2018-03-22",
+   "price": 2775
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Original",
+   "releaseDate": "2010-09-08",
+   "price": 790
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Pajama Guardian",
+   "releaseDate": "2018-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Pool Party",
+   "releaseDate": "2016-07-13",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Road Warrior",
+   "releaseDate": "2011-05-24",
+   "price": 520
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Ruined",
+   "releaseDate": "2021-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Secret Agent",
+   "releaseDate": "2010-11-16",
+   "price": 975
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Star Guardian",
+   "releaseDate": "2017-09-06",
+   "price": 1350
+ },
+ {
+   "champion": "Miss Fortune",
+   "skinName": "Waterloo",
+   "releaseDate": "2010-09-08",
+   "price": 520
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Dark Star",
+   "releaseDate": "2020-03-26",
+   "price": 1350
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Dragon Knight",
+   "releaseDate": "2010-02-24",
+   "price": 520
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Infernal",
+   "releaseDate": "2010-02-24",
+   "price": 520
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "King of Clubs",
+   "releaseDate": "2015-05-20",
+   "price": 750
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Lord",
+   "releaseDate": "2011-05-10",
+   "price": 975
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Original",
+   "releaseDate": "2010-02-24",
+   "price": 585
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1820
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Pentakill",
+   "releaseDate": "2010-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Mordekaiser",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Bewitching",
+   "releaseDate": "2016-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Blackthorn",
+   "releaseDate": "2012-05-23",
+   "price": 1350
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Blade Mistress",
+   "releaseDate": "2010-12-01",
+   "price": 750
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Coven",
+   "releaseDate": "2020-04-16",
+   "price": 1820
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Exiled",
+   "releaseDate": "2010-06-01",
+   "price": 975
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Ghost Bride",
+   "releaseDate": "2013-06-13",
+   "price": 975
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Lunar Wraith",
+   "releaseDate": "2016-01-27",
+   "price": 975
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Majestic Empress",
+   "releaseDate": "2019-09-26",
+   "price": 1350
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Sinful Succulence",
+   "releaseDate": "2010-09-02",
+   "price": 975
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Snow Moon",
+   "releaseDate": "2023-05-18",
+   "price": 1350
+ },
+ {
+   "champion": "Morgana",
+   "skinName": "Star Nemesis",
+   "releaseDate": "2022-07-28",
+   "price": 1350
+ },
+ {
+   "champion": "Naafiri",
+   "skinName": "Original",
+   "releaseDate": "2023-07-20",
+   "price": 975
+ },
+ {
+   "champion": "Naafiri",
+   "skinName": "Soul Fighter",
+   "releaseDate": "2023-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Bewitching",
+   "releaseDate": "2021-10-07",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Cosmic Destiny",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Deep Sea",
+   "releaseDate": "2016-06-29",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Koi",
+   "releaseDate": "2012-12-07",
+   "price": 975
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Original",
+   "releaseDate": "2012-12-07",
+   "price": 880
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Program",
+   "releaseDate": "2018-11-15",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "River Spirit",
+   "releaseDate": "2014-06-01",
+   "price": 975
+ },
+ {
+   "champion": "Nami",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Splendid Staff",
+   "releaseDate": "2019-09-26",
+   "price": 1350
+ },
+ {
+   "champion": "Nami",
+   "skinName": "Urf the Nami-tee",
+   "releaseDate": "2015-03-31",
+   "price": 750
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Archduke",
+   "releaseDate": "2015-03-31",
+   "price": 750
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Armored Titan",
+   "releaseDate": "2022-08-25",
+   "price": 1350
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Battlecast",
+   "releaseDate": "2020-11-12",
+   "price": 1350
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Dreadknight",
+   "releaseDate": "2011-04-26",
+   "price": 975
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Galactic",
+   "releaseDate": "2010-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Infernal",
+   "releaseDate": "2013-11-20",
+   "price": 1820
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Lunar Guardian",
+   "releaseDate": "2018-02-08",
+   "price": 1350
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Nightbringer",
+   "releaseDate": "2023-04-20",
+   "price": 1350
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Original",
+   "releaseDate": "2009-09-30",
+   "price": 585
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Pharaoh",
+   "releaseDate": "2010-11-02",
+   "price": 520
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Riot K-9",
+   "releaseDate": "2011-08-16",
+   "price": 975
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Nasus",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2016-11-10",
+   "price": 750
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Abyssal",
+   "releaseDate": "2012-02-14",
+   "price": 975
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "AstroNautilus",
+   "releaseDate": "2012-09-04",
+   "price": 1350
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Conqueror",
+   "releaseDate": "2020-07-09",
+   "price": 975
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Original",
+   "releaseDate": "2012-02-14",
+   "price": 880
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2021-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Subterranean",
+   "releaseDate": "2012-02-14",
+   "price": 975
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Warden",
+   "releaseDate": "2015-02-17",
+   "price": 750
+ },
+ {
+   "champion": "Nautilus",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2016-11-10",
+   "price": 750
+ },
+ {
+   "champion": "Neeko",
+   "skinName": "Bewitching",
+   "releaseDate": "2022-10-20",
+   "price": 1350
+ },
+ {
+   "champion": "Neeko",
+   "skinName": "Original",
+   "releaseDate": "2018-12-05",
+   "price": 975
+ },
+ {
+   "champion": "Neeko",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2021-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Neeko",
+   "skinName": "Star Guardian",
+   "releaseDate": "2019-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Neeko",
+   "skinName": "Winter Wonder",
+   "releaseDate": "2018-12-05",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Bewitching",
+   "releaseDate": "2011-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Challenger",
+   "releaseDate": "2016-01-14",
+   "price": 975
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Cosmic Huntress",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "DWG",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2019-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "French Maid",
+   "releaseDate": "2010-06-24",
+   "price": 520
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Headhunter",
+   "releaseDate": "2013-03-20",
+   "price": 975
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Kittalee",
+   "releaseDate": "2023-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Leopard",
+   "releaseDate": "2010-02-24",
+   "price": 520
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Ocean Song",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Original",
+   "releaseDate": "2009-12-17",
+   "price": 790
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Pharaoh",
+   "releaseDate": "2011-01-10",
+   "price": 520
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Snow Bunny",
+   "releaseDate": "2009-12-17",
+   "price": 520
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2017-10-16",
+   "price": 1350
+ },
+ {
+   "champion": "Nidalee",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2015-02-10",
+   "price": 975
+ },
+ {
+   "champion": "Nilah",
+   "skinName": "Original",
+   "releaseDate": "2022-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Nilah",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-13",
+   "price": 1350
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Cursed Revenant",
+   "releaseDate": "2016-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Eternum",
+   "releaseDate": "2012-12-05",
+   "price": 1820
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Frozen Terror",
+   "releaseDate": "2011-03-15",
+   "price": 975
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Haunting",
+   "releaseDate": "2011-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Old God",
+   "releaseDate": "2019-08-29",
+   "price": 1350
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Original",
+   "releaseDate": "2011-03-15",
+   "price": 880
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Ravager",
+   "releaseDate": "2011-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Nocturne",
+   "skinName": "Void",
+   "releaseDate": "2011-03-15",
+   "price": 520
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Demolisher",
+   "releaseDate": "2011-08-24",
+   "price": 975
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Grungy",
+   "releaseDate": "2010-08-10",
+   "price": 750
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Nunu & Beelump",
+   "releaseDate": "2022-03-03",
+   "price": 1350
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Nunu Bot",
+   "releaseDate": "2011-05-05",
+   "price": 1820
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Papercraft",
+   "releaseDate": "2019-02-21",
+   "price": 1350
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Sasquatch",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "TPA",
+   "releaseDate": "2013-05-23",
+   "price": 750
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Workshop",
+   "releaseDate": "2009-12-17",
+   "price": 520
+ },
+ {
+   "champion": "Nunu & Willump",
+   "skinName": "Zombie",
+   "releaseDate": "2015-11-05",
+   "price": 1350
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Brolaf",
+   "releaseDate": "2010-12-01",
+   "price": 1820
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Butcher",
+   "releaseDate": "2016-09-07",
+   "price": 750
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2020-01-30",
+   "price": 1350
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Forsaken",
+   "releaseDate": "2010-06-08",
+   "price": 520
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Glacial",
+   "releaseDate": "2010-06-08",
+   "price": 520
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Marauder",
+   "releaseDate": "2015-09-30",
+   "price": 750
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Original",
+   "releaseDate": "2010-06-08",
+   "price": 790
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Pentakill",
+   "releaseDate": "2012-10-01",
+   "price": 975
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Olaf",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-08",
+   "price": 1350
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Bladecraft",
+   "releaseDate": "2012-02-29",
+   "price": 975
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Dark Star",
+   "releaseDate": "2017-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Gothic",
+   "releaseDate": "2011-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Heartseeker",
+   "releaseDate": "2016-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Orbeeanna",
+   "releaseDate": "2022-03-03",
+   "price": 1350
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Original",
+   "releaseDate": "2011-06-01",
+   "price": 880
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Pool Party",
+   "releaseDate": "2020-07-02",
+   "price": 1350
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Sewn Chaos",
+   "releaseDate": "2011-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "TPA",
+   "releaseDate": "2013-05-23",
+   "price": 750
+ },
+ {
+   "champion": "Orianna",
+   "skinName": "Winter Wonder",
+   "releaseDate": "2014-12-15",
+   "price": 975
+ },
+ {
+   "champion": "Ornn",
+   "skinName": "Elderwood",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Ornn",
+   "skinName": "Original",
+   "releaseDate": "2017-08-22",
+   "price": 975
+ },
+ {
+   "champion": "Ornn",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Ornn",
+   "skinName": "Thunder Lord",
+   "releaseDate": "2017-08-22",
+   "price": 1350
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Baker",
+   "releaseDate": "2016-09-07",
+   "price": 975
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2014-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Full Metal",
+   "releaseDate": "2011-08-01",
+   "price": 975
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Glaive Warrior",
+   "releaseDate": "2012-05-30",
+   "price": 975
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Myrmidon",
+   "releaseDate": "2010-02-02",
+   "price": 520
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Original",
+   "releaseDate": "2010-02-02",
+   "price": 790
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Perseus",
+   "releaseDate": "2010-11-02",
+   "price": 750
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Pulsefire",
+   "releaseDate": "2020-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Ruined",
+   "releaseDate": "2021-07-08",
+   "price": 1350
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Ruthless",
+   "releaseDate": "2010-08-08",
+   "price": 520
+ },
+ {
+   "champion": "Pantheon",
+   "skinName": "Zombie Slayer",
+   "releaseDate": "2015-11-05",
+   "price": 975
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Astronaut",
+   "releaseDate": "2020-05-28",
+   "price": 1350
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Battle Regalia",
+   "releaseDate": "2011-03-15",
+   "price": 520
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Bewitching",
+   "releaseDate": "2021-10-07",
+   "price": 1350
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Blacksmith",
+   "releaseDate": "2010-08-24",
+   "price": 975
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Lollipoppy",
+   "releaseDate": "2010-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Noxus",
+   "releaseDate": "2010-02-02",
+   "price": 520
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Original",
+   "releaseDate": "2010-01-13",
+   "price": 260
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Ragdoll",
+   "releaseDate": "2010-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Scarlet Hammer",
+   "releaseDate": "2012-02-01",
+   "price": 975
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Snow Fawn",
+   "releaseDate": "2017-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Poppy",
+   "skinName": "Star Guardian",
+   "releaseDate": "2016-10-05",
+   "price": 1350
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Blood Moon",
+   "releaseDate": "2019-01-10",
+   "price": 1350
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1820
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Original",
+   "releaseDate": "2018-05-31",
+   "price": 975
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "PROJECT",
+   "releaseDate": "2019-08-01",
+   "price": 1820
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-17",
+   "price": 1350
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Sand Wraith",
+   "releaseDate": "2018-05-31",
+   "price": 1350
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Pyke",
+   "skinName": "Soul Fighter",
+   "releaseDate": "2023-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "Battle Boss",
+   "releaseDate": "2019-06-28",
+   "price": 1350
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "Battle Queen",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "Lunar Empress",
+   "releaseDate": "2023-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "Original",
+   "releaseDate": "2019-06-28",
+   "price": 975
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "Shockblade",
+   "releaseDate": "2022-02-17",
+   "price": 1350
+ },
+ {
+   "champion": "Qiyana",
+   "skinName": "True Damage",
+   "releaseDate": "2019-11-10",
+   "price": 1350
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Corsair",
+   "releaseDate": "2015-07-22",
+   "price": 750
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Heartseeker",
+   "releaseDate": "2017-02-02",
+   "price": 975
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Original",
+   "releaseDate": "2013-03-01",
+   "price": 880
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Phoenix",
+   "releaseDate": "2013-03-01",
+   "price": 975
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-28",
+   "price": 1350
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Warden",
+   "releaseDate": "2021-01-07",
+   "price": 1350
+ },
+ {
+   "champion": "Quinn",
+   "skinName": "Woad Scout",
+   "releaseDate": "2014-06-09",
+   "price": 975
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Arcana",
+   "releaseDate": "2022-04-14",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Cosmic Dawn",
+   "releaseDate": "2017-04-18",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Elderwood",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Original",
+   "releaseDate": "2017-04-18",
+   "price": 975
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Star Guardian",
+   "releaseDate": "2019-09-12",
+   "price": 1820
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "Sweetheart",
+   "releaseDate": "2018-02-12",
+   "price": 1350
+ },
+ {
+   "champion": "Rakan",
+   "skinName": "iG",
+   "releaseDate": "2019-04-23",
+   "price": 1350
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Astronaut",
+   "releaseDate": "2021-07-01",
+   "price": 1350
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Chrome",
+   "releaseDate": "2010-05-17",
+   "price": 750
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Freljord",
+   "releaseDate": "2010-11-22",
+   "price": 520
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Full Metal",
+   "releaseDate": "2012-08-16",
+   "price": 975
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2015-04-26",
+   "price": 975
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Molten",
+   "releaseDate": "2010-07-13",
+   "price": 975
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Ninja",
+   "releaseDate": "2011-05-17",
+   "price": 975
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Original",
+   "releaseDate": "2009-07-09",
+   "price": 585
+ },
+ {
+   "champion": "Rammus",
+   "skinName": "Sweeper",
+   "releaseDate": "2018-06-14",
+   "price": 975
+ },
+ {
+   "champion": "Rek'Sai",
+   "skinName": "Blackfrost",
+   "releaseDate": "2020-03-05",
+   "price": 1350
+ },
+ {
+   "champion": "Rek'Sai",
+   "skinName": "Elderwood",
+   "releaseDate": "2022-01-06",
+   "price": 1350
+ },
+ {
+   "champion": "Rek'Sai",
+   "skinName": "Eternum",
+   "releaseDate": "2014-12-11",
+   "price": 1350
+ },
+ {
+   "champion": "Rek'Sai",
+   "skinName": "Original",
+   "releaseDate": "2014-12-11",
+   "price": 880
+ },
+ {
+   "champion": "Rek'Sai",
+   "skinName": "Pool Party",
+   "releaseDate": "2015-06-25",
+   "price": 1350
+ },
+ {
+   "champion": "Rell",
+   "skinName": "Battle Queen",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Rell",
+   "skinName": "Original",
+   "releaseDate": "2020-12-10",
+   "price": 975
+ },
+ {
+   "champion": "Rell",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-28",
+   "price": 1350
+ },
+ {
+   "champion": "Renata Glasc",
+   "skinName": "Admiral Glasc",
+   "releaseDate": "2022-02-17",
+   "price": 1350
+ },
+ {
+   "champion": "Renata Glasc",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Renata Glasc",
+   "skinName": "Original",
+   "releaseDate": "2022-02-17",
+   "price": 975
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Blackfrost",
+   "releaseDate": "2020-03-05",
+   "price": 1350
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Bloodfury",
+   "releaseDate": "2011-07-26",
+   "price": 975
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2023-04-20",
+   "price": 1350
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Galactic",
+   "releaseDate": "2011-01-18",
+   "price": 520
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Original",
+   "releaseDate": "2011-01-18",
+   "price": 880
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Outback",
+   "releaseDate": "2011-01-18",
+   "price": 520
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1820
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Pool Party",
+   "releaseDate": "2013-09-09",
+   "price": 975
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Prehistoric",
+   "releaseDate": "2015-06-14",
+   "price": 750
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Renektoy",
+   "releaseDate": "2017-03-29",
+   "price": 750
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Rune Wars",
+   "releaseDate": "2012-04-30",
+   "price": 975
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Renekton",
+   "skinName": "Scorched Earth",
+   "releaseDate": "2014-02-10",
+   "price": 975
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2020-01-22",
+   "price": 1350
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Headhunter",
+   "releaseDate": "2012-08-21",
+   "price": 975
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Mecha",
+   "releaseDate": "2017-11-09",
+   "price": 1350
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Night Hunter",
+   "releaseDate": "2014-05-19",
+   "price": 975
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Original",
+   "releaseDate": "2012-08-21",
+   "price": 880
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Pretty Kitty",
+   "releaseDate": "2019-03-27",
+   "price": 1350
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "SSW",
+   "releaseDate": "2015-05-13",
+   "price": 750
+ },
+ {
+   "champion": "Rengar",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Arcade",
+   "releaseDate": "2015-08-19",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Battle Bunny",
+   "releaseDate": "2012-04-06",
+   "price": 975
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Battle Bunny Prime",
+   "releaseDate": "2022-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1820
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Championship",
+   "releaseDate": "2012-10-13",
+   "price": 975
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Championship 2016",
+   "releaseDate": "2016-09-25",
+   "price": 975
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Crimson Elite",
+   "releaseDate": "2011-09-14",
+   "price": 520
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2017-06-14",
+   "price": 1820
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Dragonblade",
+   "releaseDate": "2014-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Original",
+   "releaseDate": "2011-09-14",
+   "price": 880
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Pulsefire",
+   "releaseDate": "2018-05-17",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Redeemed",
+   "releaseDate": "2011-09-14",
+   "price": 975
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-08",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-08-06",
+   "price": 1350
+ },
+ {
+   "champion": "Riven",
+   "skinName": "Valiant Sword",
+   "releaseDate": "2019-09-26",
+   "price": 1350
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Badlands Baron",
+   "releaseDate": "2018-04-11",
+   "price": 1350
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Bilgerat",
+   "releaseDate": "2011-04-26",
+   "price": 520
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Original",
+   "releaseDate": "2011-04-26",
+   "price": 880
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Rumble in the Jungle",
+   "releaseDate": "2011-04-26",
+   "price": 975
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Rumble",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2014-04-02",
+   "price": 1820
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Arcana",
+   "releaseDate": "2022-04-14",
+   "price": 1350
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Championship",
+   "releaseDate": "2019-09-26",
+   "price": 1350
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Dark Crystal",
+   "releaseDate": "2012-02-20",
+   "price": 975
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2020-01-22",
+   "price": 1350
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Pirate",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Professor",
+   "releaseDate": "2010-10-05",
+   "price": 975
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Ryze Whitebeard",
+   "releaseDate": "2015-12-07",
+   "price": 750
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "SKT T1",
+   "releaseDate": "2016-08-17",
+   "price": 975
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Tribal",
+   "releaseDate": "2010-03-04",
+   "price": 520
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Uncle",
+   "releaseDate": "2010-07-03",
+   "price": 520
+ },
+ {
+   "champion": "Ryze",
+   "skinName": "Zombie",
+   "releaseDate": "2010-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Samira",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Samira",
+   "skinName": "Original",
+   "releaseDate": "2020-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Samira",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-21",
+   "price": 1350
+ },
+ {
+   "champion": "Samira",
+   "skinName": "Soul Fighter",
+   "releaseDate": "2023-07-20",
+   "price": 3250
+ },
+ {
+   "champion": "Samira",
+   "skinName": "Space Groove",
+   "releaseDate": "2021-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Bear Cavalry",
+   "releaseDate": "2013-07-31",
+   "price": 1350
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Beast Hunter",
+   "releaseDate": "2016-02-04",
+   "price": 750
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Darkrider",
+   "releaseDate": "2012-01-17",
+   "price": 975
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Firecracker",
+   "releaseDate": "2019-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Original",
+   "releaseDate": "2012-01-17",
+   "price": 880
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1350
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Poro Rider",
+   "releaseDate": "2014-12-15",
+   "price": 975
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Sabretusk",
+   "releaseDate": "2012-01-17",
+   "price": 975
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Sejuani Dawnchaser",
+   "releaseDate": "2016-11-17",
+   "price": 750
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Solar Eclipse",
+   "releaseDate": "2022-04-28",
+   "price": 1350
+ },
+ {
+   "champion": "Sejuani",
+   "skinName": "Traditional",
+   "releaseDate": "2013-04-30",
+   "price": 975
+ },
+ {
+   "champion": "Senna",
+   "skinName": "Bewitching",
+   "releaseDate": "2022-10-20",
+   "price": 1350
+ },
+ {
+   "champion": "Senna",
+   "skinName": "High Noon",
+   "releaseDate": "2020-06-18",
+   "price": 1820
+ },
+ {
+   "champion": "Senna",
+   "skinName": "Lunar Eclipse",
+   "releaseDate": "2022-04-28",
+   "price": 1350
+ },
+ {
+   "champion": "Senna",
+   "skinName": "Original",
+   "releaseDate": "2019-11-10",
+   "price": 975
+ },
+ {
+   "champion": "Senna",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1350
+ },
+ {
+   "champion": "Senna",
+   "skinName": "True Damage",
+   "releaseDate": "2019-11-10",
+   "price": 1350
+ },
+ {
+   "champion": "Seraphine",
+   "skinName": "Faerie Court",
+   "releaseDate": "2023-03-23",
+   "price": 1350
+ },
+ {
+   "champion": "Seraphine",
+   "skinName": "Graceful Phoenix",
+   "releaseDate": "2021-09-02",
+   "price": 1350
+ },
+ {
+   "champion": "Seraphine",
+   "skinName": "KDA ALL OUT Indie",
+   "releaseDate": "2020-10-29",
+   "price": 3250
+ },
+ {
+   "champion": "Seraphine",
+   "skinName": "Ocean Song",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Seraphine",
+   "skinName": "Original",
+   "releaseDate": "2020-10-29",
+   "price": 975
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Firecracker",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Mecha Kingdoms",
+   "releaseDate": "2020-01-14",
+   "price": 1350
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Obsidian Dragon",
+   "releaseDate": "2020-10-01",
+   "price": 1350
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Original",
+   "releaseDate": "2020-01-14",
+   "price": 975
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Pool Party",
+   "releaseDate": "2021-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Soul Fighter",
+   "releaseDate": "2023-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Sett",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1820
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Arcanist",
+   "releaseDate": "2020-07-09",
+   "price": 1350
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Asylum",
+   "releaseDate": "2011-11-07",
+   "price": 975
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Crime City Nightmare",
+   "releaseDate": "2021-08-26",
+   "price": 1350
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Dark Star",
+   "releaseDate": "2019-06-13",
+   "price": 1350
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Mad Hatter",
+   "releaseDate": "2010-06-08",
+   "price": 520
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Masked",
+   "releaseDate": "2013-01-08",
+   "price": 975
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Nutcracko",
+   "releaseDate": "2010-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Original",
+   "releaseDate": "2009-10-09",
+   "price": 790
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Royal",
+   "releaseDate": "2010-09-12",
+   "price": 520
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Wild Card",
+   "releaseDate": "2015-05-20",
+   "price": 750
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1350
+ },
+ {
+   "champion": "Shaco",
+   "skinName": "Workshop",
+   "releaseDate": "2011-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Blood Moon",
+   "releaseDate": "2011-06-07",
+   "price": 750
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Frozen",
+   "releaseDate": "2010-03-24",
+   "price": 520
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Infernal",
+   "releaseDate": "2019-09-05",
+   "price": 1350
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Original",
+   "releaseDate": "2010-03-24",
+   "price": 790
+ },
+ {
+   "champion": "Shen",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-03",
+   "price": 1350
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Pulsefire",
+   "releaseDate": "2018-05-17",
+   "price": 1350
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Shockblade",
+   "releaseDate": "2022-02-17",
+   "price": 1350
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Surgeon",
+   "releaseDate": "2011-01-04",
+   "price": 975
+ },
+ {
+   "champion": "Shen",
+   "skinName": "TPA",
+   "releaseDate": "2013-05-23",
+   "price": 750
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Warlord",
+   "releaseDate": "2012-04-17",
+   "price": 975
+ },
+ {
+   "champion": "Shen",
+   "skinName": "Yellow Jacket",
+   "releaseDate": "2010-03-24",
+   "price": 520
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Boneclaw",
+   "releaseDate": "2011-11-01",
+   "price": 520
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Championship",
+   "releaseDate": "2014-10-13",
+   "price": 975
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Darkflame",
+   "releaseDate": "2012-05-28",
+   "price": 975
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Ice Drake",
+   "releaseDate": "2013-04-29",
+   "price": 975
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Ironscale",
+   "releaseDate": "2011-11-01",
+   "price": 750
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Original",
+   "releaseDate": "2011-11-01",
+   "price": 790
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Ruined",
+   "releaseDate": "2021-01-21",
+   "price": 1350
+ },
+ {
+   "champion": "Shyvana",
+   "skinName": "Super Galaxy",
+   "releaseDate": "2016-05-25",
+   "price": 1350
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Astronaut",
+   "releaseDate": "2023-02-24",
+   "price": 1350
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Augmented",
+   "releaseDate": "2012-07-09",
+   "price": 975
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Beekeeper",
+   "releaseDate": "2017-10-11",
+   "price": 1350
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Black Scourge",
+   "releaseDate": "2016-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Hextech",
+   "releaseDate": "2010-08-15",
+   "price": 520
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Mad Scientist",
+   "releaseDate": "2011-09-26",
+   "price": 750
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Original",
+   "releaseDate": "2009-04-17",
+   "price": 260
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Resistance",
+   "releaseDate": "2020-11-12",
+   "price": 1350
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Riot Squad",
+   "releaseDate": "2010-06-25",
+   "price": 975
+ },
+ {
+   "champion": "Singed",
+   "skinName": "SSW",
+   "releaseDate": "2015-05-13",
+   "price": 750
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Snow Day",
+   "releaseDate": "2013-12-19",
+   "price": 975
+ },
+ {
+   "champion": "Singed",
+   "skinName": "Surfer",
+   "releaseDate": "2010-12-06",
+   "price": 975
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Barbarian",
+   "releaseDate": "2010-09-26",
+   "price": 750
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Blackfrost",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Hextech",
+   "releaseDate": "2010-06-01",
+   "price": 520
+ },
+ {
+   "champion": "Sion",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Lumberjack",
+   "releaseDate": "2011-01-24",
+   "price": 520
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Mecha Zero",
+   "releaseDate": "2016-04-13",
+   "price": 1820
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Warmonger",
+   "releaseDate": "2011-07-18",
+   "price": 975
+ },
+ {
+   "champion": "Sion",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2020-04-09",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Bandit",
+   "releaseDate": "2011-03-21",
+   "price": 750
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Blood Moon",
+   "releaseDate": "2019-01-10",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Mythmaker",
+   "releaseDate": "2023-01-12",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Odyssey",
+   "releaseDate": "2020-10-15",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Pizza Delivery",
+   "releaseDate": "2018-03-29",
+   "price": 1350
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Snowstorm",
+   "releaseDate": "2013-12-19",
+   "price": 975
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Solar Eclipse",
+   "releaseDate": "2022-04-28",
+   "price": 1820
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Spectacular",
+   "releaseDate": "2010-06-08",
+   "price": 975
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Warden",
+   "releaseDate": "2015-02-17",
+   "price": 750
+ },
+ {
+   "champion": "Sivir",
+   "skinName": "Warrior Princess",
+   "releaseDate": "2010-04-27",
+   "price": 520
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Battlecast Alpha",
+   "releaseDate": "2014-11-25",
+   "price": 1820
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Cosmic Sting",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Earthrune",
+   "releaseDate": "2011-08-09",
+   "price": 520
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2015-04-26",
+   "price": 975
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Original",
+   "releaseDate": "2011-08-09",
+   "price": 880
+ },
+ {
+   "champion": "Skarner",
+   "skinName": "Sandscourge",
+   "releaseDate": "2011-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Arcade",
+   "releaseDate": "2012-08-31",
+   "price": 1350
+ },
+ {
+   "champion": "Sona",
+   "skinName": "DJ",
+   "releaseDate": "2015-02-25",
+   "price": 3250
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Guqin",
+   "releaseDate": "2012-01-10",
+   "price": 975
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Muse",
+   "releaseDate": "2010-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Original",
+   "releaseDate": "2010-09-21",
+   "price": 790
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Pentakill",
+   "releaseDate": "2010-09-21",
+   "price": 975
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Sona",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-03",
+   "price": 1820
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Silent Night",
+   "releaseDate": "2010-12-14",
+   "price": 520
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-14",
+   "price": 1350
+ },
+ {
+   "champion": "Sona",
+   "skinName": "Sweetheart",
+   "releaseDate": "2016-02-11",
+   "price": 975
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Celestine",
+   "releaseDate": "2013-03-05",
+   "price": 975
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2019-12-12",
+   "price": 1820
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Divine",
+   "releaseDate": "2010-11-02",
+   "price": 975
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Dryad",
+   "releaseDate": "2010-06-03",
+   "price": 520
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Nightbringer",
+   "releaseDate": "2019-12-12",
+   "price": 1820
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Order of the Banana",
+   "releaseDate": "2015-03-31",
+   "price": 750
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Pajama Guardian",
+   "releaseDate": "2018-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Program",
+   "releaseDate": "2016-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Reaper",
+   "releaseDate": "2014-11-05",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Star Guardian",
+   "releaseDate": "2017-09-06",
+   "price": 1350
+ },
+ {
+   "champion": "Soraka",
+   "skinName": "Winter Wonder",
+   "releaseDate": "2018-12-06",
+   "price": 1350
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Bilgewater",
+   "releaseDate": "2010-10-05",
+   "price": 520
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Crystal Rose",
+   "releaseDate": "2021-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Dragon Master",
+   "releaseDate": "2018-02-22",
+   "price": 1350
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Northern Front",
+   "releaseDate": "2010-10-05",
+   "price": 750
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Original",
+   "releaseDate": "2010-10-05",
+   "price": 880
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Tyrant",
+   "releaseDate": "2012-05-22",
+   "price": 1350
+ },
+ {
+   "champion": "Swain",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1350
+ },
+ {
+   "champion": "Sylas",
+   "skinName": "Battle Wolf",
+   "releaseDate": "2022-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Sylas",
+   "skinName": "Freljord",
+   "releaseDate": "2020-01-10",
+   "price": 1350
+ },
+ {
+   "champion": "Sylas",
+   "skinName": "Lunar Wraith",
+   "releaseDate": "2019-01-25",
+   "price": 1350
+ },
+ {
+   "champion": "Sylas",
+   "skinName": "Original",
+   "releaseDate": "2019-01-25",
+   "price": 975
+ },
+ {
+   "champion": "Sylas",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Atlantean",
+   "releaseDate": "2014-04-29",
+   "price": 975
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Bewitching",
+   "releaseDate": "2021-10-07",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Justicar",
+   "releaseDate": "2012-09-12",
+   "price": 975
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Original",
+   "releaseDate": "2012-09-12",
+   "price": 880
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Pool Party",
+   "releaseDate": "2020-07-02",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Queen of Diamonds",
+   "releaseDate": "2015-05-20",
+   "price": 750
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Snow Day",
+   "releaseDate": "2015-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Star Guardian",
+   "releaseDate": "2017-09-06",
+   "price": 1350
+ },
+ {
+   "champion": "Syndra",
+   "skinName": "Withered Rose",
+   "releaseDate": "2021-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Arcana",
+   "releaseDate": "2021-05-13",
+   "price": 1350
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Coin Emperor",
+   "releaseDate": "2019-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Master Chef",
+   "releaseDate": "2015-07-08",
+   "price": 975
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Original",
+   "releaseDate": "2015-07-08",
+   "price": 880
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Shan Hai Scrolls",
+   "releaseDate": "2023-06-14",
+   "price": 1350
+ },
+ {
+   "champion": "Tahm Kench",
+   "skinName": "Urf Kench",
+   "releaseDate": "2016-03-31",
+   "price": 750
+ },
+ {
+   "champion": "Taliyah",
+   "skinName": "Freljord",
+   "releaseDate": "2016-05-17",
+   "price": 1350
+ },
+ {
+   "champion": "Taliyah",
+   "skinName": "Original",
+   "releaseDate": "2016-05-17",
+   "price": 975
+ },
+ {
+   "champion": "Taliyah",
+   "skinName": "Pool Party",
+   "releaseDate": "2020-07-02",
+   "price": 1350
+ },
+ {
+   "champion": "Taliyah",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Taliyah",
+   "skinName": "Star Guardian",
+   "releaseDate": "2022-07-28",
+   "price": 1350
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Blood Moon",
+   "releaseDate": "2017-02-09",
+   "price": 1350
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Crimson Elite",
+   "releaseDate": "2011-08-24",
+   "price": 750
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Dragonblade",
+   "releaseDate": "2012-01-10",
+   "price": 975
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Enduring Sword",
+   "releaseDate": "2018-09-04",
+   "price": 1350
+ },
+ {
+   "champion": "Talon",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Original",
+   "releaseDate": "2011-08-24",
+   "price": 880
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Renegade",
+   "releaseDate": "2011-08-24",
+   "price": 520
+ },
+ {
+   "champion": "Talon",
+   "skinName": "SSW",
+   "releaseDate": "2015-05-13",
+   "price": 750
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Talon Blackwood",
+   "releaseDate": "2020-03-19",
+   "price": 1350
+ },
+ {
+   "champion": "Talon",
+   "skinName": "Withered Rose",
+   "releaseDate": "2021-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Armor of the Fifth Age",
+   "releaseDate": "2010-04-08",
+   "price": 750
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Bloodstone",
+   "releaseDate": "2011-08-09",
+   "price": 975
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Emerald",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Original",
+   "releaseDate": "2009-08-18",
+   "price": 585
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Pool Party",
+   "releaseDate": "2016-07-13",
+   "price": 1350
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Taric",
+   "skinName": "Taric Luminshield",
+   "releaseDate": "2020-03-19",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Astronaut",
+   "releaseDate": "2010-10-27",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Badger",
+   "releaseDate": "2010-01-13",
+   "price": 520
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Beemo",
+   "releaseDate": "2018-05-01",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Cottontail",
+   "releaseDate": "2011-04-18",
+   "price": 975
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Firecracker",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Happy Elf",
+   "releaseDate": "2009-12-17",
+   "price": 520
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Little Devil",
+   "releaseDate": "2016-10-19",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Omega Squad",
+   "releaseDate": "2015-04-08",
+   "price": 1820
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Panda",
+   "releaseDate": "2012-07-09",
+   "price": 975
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Recon",
+   "releaseDate": "2009-12-17",
+   "price": 520
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1820
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Teemo",
+   "skinName": "Super",
+   "releaseDate": "2011-10-10",
+   "price": 975
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Blood Moon",
+   "releaseDate": "2015-01-08",
+   "price": 975
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Championship",
+   "releaseDate": "2013-10-03",
+   "price": 975
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Dark Star",
+   "releaseDate": "2016-06-15",
+   "price": 1820
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Deep Terror",
+   "releaseDate": "2013-01-23",
+   "price": 975
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "FPX",
+   "releaseDate": "2020-04-30",
+   "price": 1350
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "High Noon",
+   "releaseDate": "2018-08-30",
+   "price": 1350
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Lunar Emperor",
+   "releaseDate": "2023-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Original",
+   "releaseDate": "2013-01-23",
+   "price": 880
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Pulsefire",
+   "releaseDate": "2019-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "SSW",
+   "releaseDate": "2015-05-13",
+   "price": 750
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-07-22",
+   "price": 1820
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Steel Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1350
+ },
+ {
+   "champion": "Thresh",
+   "skinName": "Unbound",
+   "releaseDate": "2021-07-29",
+   "price": 750
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Bewitching",
+   "releaseDate": "2016-10-19",
+   "price": 1350
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Buccaneer",
+   "releaseDate": "2011-06-27",
+   "price": 520
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Dragon Trainer",
+   "releaseDate": "2015-12-03",
+   "price": 1820
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Earnest Elf",
+   "releaseDate": "2009-12-31",
+   "price": 520
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Firecracker",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Firefighter",
+   "releaseDate": "2010-06-03",
+   "price": 1820
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Guerilla",
+   "releaseDate": "2010-08-10",
+   "price": 975
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Little Demon",
+   "releaseDate": "2019-05-30",
+   "price": 1350
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Omega Squad",
+   "releaseDate": "2017-07-26",
+   "price": 1350
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Pengu Cosplay",
+   "releaseDate": "2020-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Rocket Girl",
+   "releaseDate": "2012-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Tristana",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Constable",
+   "releaseDate": "2014-11-28",
+   "price": 750
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2020-01-30",
+   "price": 1350
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Junkyard",
+   "releaseDate": "2010-12-01",
+   "price": 750
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Lil' Slugger",
+   "releaseDate": "2010-12-01",
+   "price": 520
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Original",
+   "releaseDate": "2010-12-01",
+   "price": 880
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Traditional",
+   "releaseDate": "2013-04-30",
+   "price": 975
+ },
+ {
+   "champion": "Trundle",
+   "skinName": "Worldbreaker",
+   "releaseDate": "2016-11-10",
+   "price": 750
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Beast Hunter",
+   "releaseDate": "2016-02-04",
+   "price": 750
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Blood Moon",
+   "releaseDate": "2020-02-20",
+   "price": 1350
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Chemtech",
+   "releaseDate": "2017-06-05",
+   "price": 975
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Demonblade",
+   "releaseDate": "2011-08-01",
+   "price": 1820
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Highland",
+   "releaseDate": "2010-03-16",
+   "price": 520
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "King",
+   "releaseDate": "2010-09-21",
+   "price": 520
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Nightbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Nightmare",
+   "releaseDate": "2015-06-07",
+   "price": 750
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Original",
+   "releaseDate": "2009-04-30",
+   "price": 585
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Sultan",
+   "releaseDate": "2012-09-26",
+   "price": 975
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Viking",
+   "releaseDate": "2011-06-24",
+   "price": 750
+ },
+ {
+   "champion": "Tryndamere",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2014-01-28",
+   "price": 975
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Blood Moon",
+   "releaseDate": "2017-02-09",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Crime City Nightmare",
+   "releaseDate": "2021-08-26",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Cutpurse",
+   "releaseDate": "2015-07-21",
+   "price": 750
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "DWG",
+   "releaseDate": "2021-04-29",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "High Noon",
+   "releaseDate": "2011-05-17",
+   "price": 975
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Jack of Hearts",
+   "releaseDate": "2010-02-10",
+   "price": 520
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Musketeer",
+   "releaseDate": "2011-11-21",
+   "price": 750
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Odyssey",
+   "releaseDate": "2020-10-15",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 585
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Pulsefire",
+   "releaseDate": "2018-05-17",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Red Card",
+   "releaseDate": "2014-06-18",
+   "price": 750
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Space Groove",
+   "releaseDate": "2022-11-17",
+   "price": 1350
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Tango",
+   "releaseDate": "2010-10-05",
+   "price": 520
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "The Magnificent",
+   "releaseDate": "2010-05-17",
+   "price": 1820
+ },
+ {
+   "champion": "Twisted Fate",
+   "skinName": "Underworld",
+   "releaseDate": "2012-10-26",
+   "price": 975
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Crime City",
+   "releaseDate": "2010-10-13",
+   "price": 975
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Ice King",
+   "releaseDate": "2018-12-06",
+   "price": 1350
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Kingpin",
+   "releaseDate": "2009-11-20",
+   "price": 520
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Omega Squad",
+   "releaseDate": "2017-07-26",
+   "price": 1350
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Original",
+   "releaseDate": "2009-04-30",
+   "price": 790
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Pickpocket",
+   "releaseDate": "2014-11-28",
+   "price": 750
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "SSW",
+   "releaseDate": "2015-05-13",
+   "price": 750
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Twitch Shadowfoot",
+   "releaseDate": "2020-03-19",
+   "price": 1350
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Vandal",
+   "releaseDate": "2011-02-22",
+   "price": 975
+ },
+ {
+   "champion": "Twitch",
+   "skinName": "Whistler Village",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Black Belt",
+   "releaseDate": "2010-07-18",
+   "price": 520
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Definitely Not",
+   "releaseDate": "2015-03-31",
+   "price": 975
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Dragon Oracle",
+   "releaseDate": "2019-08-15",
+   "price": 1350
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Original",
+   "releaseDate": "2009-12-02",
+   "price": 585
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Primal",
+   "releaseDate": "2010-12-06",
+   "price": 975
+ },
+ {
+   "champion": "Udyr",
+   "skinName": "Spirit Guard",
+   "releaseDate": "2013-07-16",
+   "price": 3250
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Battlecast",
+   "releaseDate": "2012-03-05",
+   "price": 1350
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Butcher",
+   "releaseDate": "2010-08-24",
+   "price": 520
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Fright Night",
+   "releaseDate": "2022-09-22",
+   "price": 1350
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Giant Enemy Crabgot",
+   "releaseDate": "2010-08-24",
+   "price": 520
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "High Noon",
+   "releaseDate": "2018-08-30",
+   "price": 1350
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Original",
+   "releaseDate": "2010-08-24",
+   "price": 790
+ },
+ {
+   "champion": "Urgot",
+   "skinName": "Pajama Guardian Cosplay",
+   "releaseDate": "2020-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Arclight",
+   "releaseDate": "2012-12-05",
+   "price": 975
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Arctic Ops",
+   "releaseDate": "2014-03-20",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Blight Crystal",
+   "releaseDate": "2012-05-08",
+   "price": 975
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Conqueror",
+   "releaseDate": "2018-04-25",
+   "price": 975
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Cosmic Hunter",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Dark Star",
+   "releaseDate": "2016-06-15",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Heartseeker",
+   "releaseDate": "2015-02-13",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Infernal",
+   "releaseDate": "2019-09-05",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Original",
+   "releaseDate": "2012-05-08",
+   "price": 880
+ },
+ {
+   "champion": "Varus",
+   "skinName": "PROJECT",
+   "releaseDate": "2021-05-27",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Snow Moon",
+   "releaseDate": "2023-05-18",
+   "price": 1350
+ },
+ {
+   "champion": "Varus",
+   "skinName": "Varus Swiftbolt",
+   "releaseDate": "2015-12-07",
+   "price": 750
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Arclight",
+   "releaseDate": "2015-04-20",
+   "price": 975
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Aristocrat",
+   "releaseDate": "2011-05-10",
+   "price": 520
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Battle Bat",
+   "releaseDate": "2022-03-31",
+   "price": 1350
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2023-04-20",
+   "price": 1350
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2011-08-24",
+   "price": 975
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "FPX",
+   "releaseDate": "2020-04-30",
+   "price": 1350
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Firecracker",
+   "releaseDate": "2019-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Heartseeker",
+   "releaseDate": "2012-02-14",
+   "price": 975
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Original",
+   "releaseDate": "2011-05-10",
+   "price": 880
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "PROJECT",
+   "releaseDate": "2017-11-22",
+   "price": 1820
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "SKT T1",
+   "releaseDate": "2014-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Sentinel",
+   "releaseDate": "2021-07-08",
+   "price": 1820
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Vayne",
+   "skinName": "Vindicator",
+   "releaseDate": "2011-05-10",
+   "price": 520
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Astronaut",
+   "releaseDate": "2021-07-01",
+   "price": 1350
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Bad Santa",
+   "releaseDate": "2012-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Baron Von",
+   "releaseDate": "2011-06-27",
+   "price": 975
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Curling",
+   "releaseDate": "2010-02-12",
+   "price": 520
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Elderwood",
+   "releaseDate": "2019-08-29",
+   "price": 1350
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Final Boss",
+   "releaseDate": "2014-08-27",
+   "price": 1820
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Furyhorn Cosplay",
+   "releaseDate": "2020-04-01",
+   "price": 1350
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Leprechaun",
+   "releaseDate": "2011-03-15",
+   "price": 520
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Monster Tamer",
+   "releaseDate": "2022-08-11",
+   "price": 1350
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Omega Squad",
+   "releaseDate": "2017-07-26",
+   "price": 1350
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Original",
+   "releaseDate": "2009-07-23",
+   "price": 585
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Superb Villain",
+   "releaseDate": "2012-01-02",
+   "price": 975
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "Veigar Greybeard",
+   "releaseDate": "2010-09-08",
+   "price": 750
+ },
+ {
+   "champion": "Veigar",
+   "skinName": "White Mage",
+   "releaseDate": "2009-12-17",
+   "price": 390
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Arclight",
+   "releaseDate": "2015-01-28",
+   "price": 1350
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Battlecast",
+   "releaseDate": "2014-02-27",
+   "price": 1350
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Blackfrost",
+   "releaseDate": "2021-04-15",
+   "price": 1350
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Definitely Not",
+   "releaseDate": "2016-03-31",
+   "price": 750
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Infernal",
+   "releaseDate": "2020-07-16",
+   "price": 1350
+ },
+ {
+   "champion": "Vel'Koz",
+   "skinName": "Original",
+   "releaseDate": "2014-02-27",
+   "price": 880
+ },
+ {
+   "champion": "Vex",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1350
+ },
+ {
+   "champion": "Vex",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Vex",
+   "skinName": "Original",
+   "releaseDate": "2021-09-23",
+   "price": 975
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Arcane",
+   "releaseDate": "2021-11-15",
+   "price": 975
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Debonair",
+   "releaseDate": "2014-08-05",
+   "price": 750
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Demon",
+   "releaseDate": "2015-10-19",
+   "price": 1350
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Heartache",
+   "releaseDate": "2023-02-10",
+   "price": 1350
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Heartbreaker",
+   "releaseDate": "2019-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Neon Strike",
+   "releaseDate": "2012-12-19",
+   "price": 975
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Officer",
+   "releaseDate": "2013-10-29",
+   "price": 975
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Original",
+   "releaseDate": "2012-12-19",
+   "price": 880
+ },
+ {
+   "champion": "Vi",
+   "skinName": "PROJECT",
+   "releaseDate": "2017-11-22",
+   "price": 1350
+ },
+ {
+   "champion": "Vi",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-03",
+   "price": 1350
+ },
+ {
+   "champion": "Vi",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2017-01-19",
+   "price": 1350
+ },
+ {
+   "champion": "Viego",
+   "skinName": "Dissonance of Pentakill",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Viego",
+   "skinName": "EDG",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Viego",
+   "skinName": "King",
+   "releaseDate": "2022-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Viego",
+   "skinName": "Lunar Beast",
+   "releaseDate": "2021-01-21",
+   "price": 1350
+ },
+ {
+   "champion": "Viego",
+   "skinName": "Original",
+   "releaseDate": "2021-01-21",
+   "price": 975
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "Creator",
+   "releaseDate": "2013-09-30",
+   "price": 1350
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "Death Sworn",
+   "releaseDate": "2017-10-25",
+   "price": 1350
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "Full Machine",
+   "releaseDate": "2011-12-29",
+   "price": 975
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "High Noon",
+   "releaseDate": "2022-05-26",
+   "price": 1350
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "Original",
+   "releaseDate": "2011-12-29",
+   "price": 880
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "Prototype",
+   "releaseDate": "2011-12-29",
+   "price": 520
+ },
+ {
+   "champion": "Viktor",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-17",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Academy",
+   "releaseDate": "2015-08-26",
+   "price": 750
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Blood Lord",
+   "releaseDate": "2011-11-21",
+   "price": 1820
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Cafe Cuties",
+   "releaseDate": "2021-12-02",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Cosmic Devourer",
+   "releaseDate": "2020-11-24",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Count",
+   "releaseDate": "2010-07-27",
+   "price": 520
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Dark Waters",
+   "releaseDate": "2018-05-31",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Marquis",
+   "releaseDate": "2010-07-27",
+   "price": 520
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Nightbringer",
+   "releaseDate": "2019-12-12",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Nosferatu",
+   "releaseDate": "2010-10-19",
+   "price": 975
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Original",
+   "releaseDate": "2010-07-27",
+   "price": 790
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Soulstealer",
+   "releaseDate": "2014-07-09",
+   "price": 1350
+ },
+ {
+   "champion": "Vladimir",
+   "skinName": "Vandal",
+   "releaseDate": "2011-01-24",
+   "price": 975
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Captain",
+   "releaseDate": "2014-11-28",
+   "price": 750
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Duality Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1350
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "El Rayo",
+   "releaseDate": "2016-06-01",
+   "price": 750
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Northern Storm",
+   "releaseDate": "2011-11-29",
+   "price": 750
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Original",
+   "releaseDate": "2011-11-29",
+   "price": 880
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Runeguard",
+   "releaseDate": "2013-04-29",
+   "price": 975
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "The Thousand-Pierced Bear",
+   "releaseDate": "2020-05-28",
+   "price": 975
+ },
+ {
+   "champion": "Volibear",
+   "skinName": "Thunder Lord",
+   "releaseDate": "2011-11-29",
+   "price": 520
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Big Bad",
+   "releaseDate": "2010-04-27",
+   "price": 520
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Feral",
+   "releaseDate": "2010-11-16",
+   "price": 975
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Firefang",
+   "releaseDate": "2011-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Hyena",
+   "releaseDate": "2011-12-05",
+   "price": 975
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Lunar Guardian",
+   "releaseDate": "2018-02-08",
+   "price": 1350
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Marauder",
+   "releaseDate": "2015-02-17",
+   "price": 750
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Old God",
+   "releaseDate": "2021-08-12",
+   "price": 1350
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Original",
+   "releaseDate": "2009-02-21",
+   "price": 260
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "PROJECT",
+   "releaseDate": "2019-08-01",
+   "price": 1350
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Tundra Hunter",
+   "releaseDate": "2010-08-15",
+   "price": 520
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Urf the Manatee",
+   "releaseDate": "2010-03-31",
+   "price": 5000
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Urfwick",
+   "releaseDate": "2017-11-08",
+   "price": 150000
+ },
+ {
+   "champion": "Warwick",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1350
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Battle Academia",
+   "releaseDate": "2021-03-18",
+   "price": 1350
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "General",
+   "releaseDate": "2011-07-26",
+   "price": 750
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Jade Dragon",
+   "releaseDate": "2012-01-10",
+   "price": 975
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Lancer Stratus",
+   "releaseDate": "2018-04-04",
+   "price": 1350
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Original",
+   "releaseDate": "2011-07-26",
+   "price": 880
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Radiant",
+   "releaseDate": "2016-01-27",
+   "price": 1350
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Underworld",
+   "releaseDate": "2014-10-28",
+   "price": 1350
+ },
+ {
+   "champion": "Wukong",
+   "skinName": "Volcanic",
+   "releaseDate": "2011-07-26",
+   "price": 975
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Arcana",
+   "releaseDate": "2022-04-14",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Brave Phoenix",
+   "releaseDate": "2021-09-02",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Broken Covenant",
+   "releaseDate": "2023-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Cosmic Dusk",
+   "releaseDate": "2017-04-18",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Elderwood",
+   "releaseDate": "2020-12-10",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Original",
+   "releaseDate": "2017-04-18",
+   "price": 975
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "SSG",
+   "releaseDate": "2018-07-20",
+   "price": 1350
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Star Guardian",
+   "releaseDate": "2019-09-12",
+   "price": 1820
+ },
+ {
+   "champion": "Xayah",
+   "skinName": "Sweetheart",
+   "releaseDate": "2018-02-12",
+   "price": 1350
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Arcana",
+   "releaseDate": "2021-05-13",
+   "price": 1350
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Astronaut",
+   "releaseDate": "2023-02-24",
+   "price": 1350
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Battlecast",
+   "releaseDate": "2011-10-05",
+   "price": 520
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Dark Star",
+   "releaseDate": "2020-03-26",
+   "price": 1350
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Guardian of the Sands",
+   "releaseDate": "2015-04-26",
+   "price": 1350
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Original",
+   "releaseDate": "2011-10-05",
+   "price": 880
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Runeborn",
+   "releaseDate": "2011-10-05",
+   "price": 750
+ },
+ {
+   "champion": "Xerath",
+   "skinName": "Scorched Earth",
+   "releaseDate": "2012-07-13",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Commando",
+   "releaseDate": "2010-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Cosmic Defender",
+   "releaseDate": "2018-08-21",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Dragonslayer",
+   "releaseDate": "2017-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Firecracker",
+   "releaseDate": "2022-01-26",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Imperial",
+   "releaseDate": "2010-07-13",
+   "price": 520
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Marauder",
+   "releaseDate": "2021-01-07",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Original",
+   "releaseDate": "2010-07-13",
+   "price": 585
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Secret Agent",
+   "releaseDate": "2015-03-16",
+   "price": 975
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Viscero",
+   "releaseDate": "2010-11-22",
+   "price": 975
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Warring Kingdoms",
+   "releaseDate": "2013-02-08",
+   "price": 1350
+ },
+ {
+   "champion": "Xin Zhao",
+   "skinName": "Winged Hussar",
+   "releaseDate": "2011-09-26",
+   "price": 975
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Battle Boss",
+   "releaseDate": "2019-06-28",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Blood Moon",
+   "releaseDate": "2016-02-25",
+   "price": 975
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Dream Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1820
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "High Noon",
+   "releaseDate": "2013-12-13",
+   "price": 975
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Nightbringer",
+   "releaseDate": "2017-06-14",
+   "price": 1820
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Original",
+   "releaseDate": "2013-12-13",
+   "price": 880
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "PROJECT",
+   "releaseDate": "2014-08-31",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Sea Dog",
+   "releaseDate": "2022-05-05",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-07-22",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "True Damage",
+   "releaseDate": "2019-11-10",
+   "price": 1350
+ },
+ {
+   "champion": "Yasuo",
+   "skinName": "Truth Dragon",
+   "releaseDate": "2021-10-21",
+   "price": 1820
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Battle Academia",
+   "releaseDate": "2021-03-18",
+   "price": 1350
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Dawnbringer",
+   "releaseDate": "2021-09-23",
+   "price": 1820
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Inkshadow",
+   "releaseDate": "2023-05-03",
+   "price": 1350
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Ocean Song",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Original",
+   "releaseDate": "2020-08-06",
+   "price": 975
+ },
+ {
+   "champion": "Yone",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2020-08-06",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Arclight",
+   "releaseDate": "2017-10-02",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Meowrick",
+   "releaseDate": "2019-03-27",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Original",
+   "releaseDate": "2011-06-22",
+   "price": 880
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Pentakill",
+   "releaseDate": "2011-06-21",
+   "price": 975
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Pentakill Lost Chapter",
+   "releaseDate": "2021-09-09",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Resistance",
+   "releaseDate": "2020-11-12",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Spirit Blossom",
+   "releaseDate": "2022-10-06",
+   "price": 1350
+ },
+ {
+   "champion": "Yorick",
+   "skinName": "Undertaker",
+   "releaseDate": "2011-06-21",
+   "price": 520
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Battle Principal",
+   "releaseDate": "2019-05-14",
+   "price": 1350
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Bewitching",
+   "releaseDate": "2021-10-07",
+   "price": 1350
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "EDG",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Heartseeker",
+   "releaseDate": "2020-02-04",
+   "price": 1350
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Original",
+   "releaseDate": "2019-05-14",
+   "price": 975
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Shiba",
+   "releaseDate": "2023-04-06",
+   "price": 1350
+ },
+ {
+   "champion": "Yuumi",
+   "skinName": "Yuubee",
+   "releaseDate": "2021-03-04",
+   "price": 1350
+ },
+ {
+   "champion": "Zac",
+   "skinName": "Battlecast",
+   "releaseDate": "2020-11-12",
+   "price": 1350
+ },
+ {
+   "champion": "Zac",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Zac",
+   "skinName": "Original",
+   "releaseDate": "2013-03-29",
+   "price": 880
+ },
+ {
+   "champion": "Zac",
+   "skinName": "Pool Party",
+   "releaseDate": "2015-06-25",
+   "price": 1350
+ },
+ {
+   "champion": "Zac",
+   "skinName": "SKT T1",
+   "releaseDate": "2017-06-27",
+   "price": 1350
+ },
+ {
+   "champion": "Zac",
+   "skinName": "Special Weapon",
+   "releaseDate": "2013-03-29",
+   "price": 975
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Championship",
+   "releaseDate": "2016-09-25",
+   "price": 975
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Death Sworn",
+   "releaseDate": "2017-10-25",
+   "price": 1350
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Debonair",
+   "releaseDate": "2021-12-09",
+   "price": 1820
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Empyrean",
+   "releaseDate": "2022-11-03",
+   "price": 1350
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Galaxy Slayer",
+   "releaseDate": "2019-04-18",
+   "price": 1820
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Original",
+   "releaseDate": "2012-11-13",
+   "price": 880
+ },
+ {
+   "champion": "Zed",
+   "skinName": "PROJECT",
+   "releaseDate": "2015-09-07",
+   "price": 1350
+ },
+ {
+   "champion": "Zed",
+   "skinName": "PsyOps",
+   "releaseDate": "2020-09-17",
+   "price": 1350
+ },
+ {
+   "champion": "Zed",
+   "skinName": "SKT T1",
+   "releaseDate": "2014-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Zed",
+   "skinName": "Shockblade",
+   "releaseDate": "2012-11-13",
+   "price": 975
+ },
+ {
+   "champion": "Zeri",
+   "skinName": "Ocean Song",
+   "releaseDate": "2022-06-09",
+   "price": 1350
+ },
+ {
+   "champion": "Zeri",
+   "skinName": "Original",
+   "releaseDate": "2022-01-20",
+   "price": 975
+ },
+ {
+   "champion": "Zeri",
+   "skinName": "Withered Rose",
+   "releaseDate": "2022-01-20",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "BZZZiggs",
+   "releaseDate": "2022-03-03",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Battle Boss",
+   "releaseDate": "2017-08-08",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Mad Scientist",
+   "releaseDate": "2012-02-01",
+   "price": 975
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Major",
+   "releaseDate": "2012-02-01",
+   "price": 975
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Master Arcanist",
+   "releaseDate": "2015-05-06",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Odyssey",
+   "releaseDate": "2018-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Original",
+   "releaseDate": "2012-02-01",
+   "price": 880
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Pool Party",
+   "releaseDate": "2012-09-04",
+   "price": 1350
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Snow Day",
+   "releaseDate": "2012-12-14",
+   "price": 975
+ },
+ {
+   "champion": "Ziggs",
+   "skinName": "Sugar Rush",
+   "releaseDate": "2019-12-17",
+   "price": 1350
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Blood Moon",
+   "releaseDate": "2015-05-10",
+   "price": 975
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Groovy",
+   "releaseDate": "2010-07-27",
+   "price": 520
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Old Saint",
+   "releaseDate": "2009-12-23",
+   "price": 520
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Original",
+   "releaseDate": "2009-04-17",
+   "price": 585
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Shurima Desert",
+   "releaseDate": "2010-09-08",
+   "price": 975
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Sugar Rush",
+   "releaseDate": "2019-12-17",
+   "price": 1350
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Time Machine",
+   "releaseDate": "2011-04-12",
+   "price": 520
+ },
+ {
+   "champion": "Zilean",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Arcanist",
+   "releaseDate": "2020-07-09",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Cyber Pop",
+   "releaseDate": "2017-11-21",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "EDG",
+   "releaseDate": "2022-05-12",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Original",
+   "releaseDate": "2017-11-21",
+   "price": 975
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Pool Party",
+   "releaseDate": "2018-08-02",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Star Guardian",
+   "releaseDate": "2019-09-12",
+   "price": 1350
+ },
+ {
+   "champion": "Zoe",
+   "skinName": "Winterblessed",
+   "releaseDate": "2022-12-08",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Coven",
+   "releaseDate": "2020-04-16",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Crime City Nightmare",
+   "releaseDate": "2021-08-26",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Crystal Rose",
+   "releaseDate": "2021-02-11",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Dragon Sorceress",
+   "releaseDate": "2017-03-09",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Haunted",
+   "releaseDate": "2013-10-29",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Mythmaker",
+   "releaseDate": "2023-01-12",
+   "price": 1350
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Original",
+   "releaseDate": "2012-07-24",
+   "price": 880
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "SKT T1",
+   "releaseDate": "2014-05-04",
+   "price": 750
+ },
+ {
+   "champion": "Zyra",
+   "skinName": "Wildfire",
+   "releaseDate": "2012-07-24",
+   "price": 975
+ }
+]
